@@ -3,7 +3,11 @@ __pycache__/
 *.pyc
 *.pyo
 *.log
+
 benchmark_outputs/
+benchmark_output_*.txt
+
 memory/experiment_history.json
+
 .DS_Store
-*.root
+*.rootO
