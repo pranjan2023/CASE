@@ -1,0 +1,2586 @@
+Observe stage
+Plan stage
+Proposed geometry: {'detector_size_cm': 13.68, 'material': 'G4_Si'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6161592213328924, 'std': 0.014210200735460931, 'n': 10}, 'QGSP_BERT': {'mean': 0.6165354673332123, 'std': 0.009530531307779526, 'n': 10}, 'QGSP_BIC': {'mean': 0.6133828619363884, 'std': 0.01245280339855997, 'n': 10}}
+Update stage
+mean: 0.6161592213328924 std: 0.014210200735460931 n: 10
+Cross-valid: True
+Best mean so far: 0.6161592213328924
+DAG node: 4de5e0e2
+Observe stage
+Last experiment geometry: {'detector_size_cm': 13.68, 'material': 'G4_Si'}
+Material: G4_Si
+Last experiment mean: 0.6161592213328924
+Last experiment std: 0.014210200735460931
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 12.23, 'material': 'G4_Fe'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9435207835006214, 'std': 0.0080479851785912, 'n': 10}, 'QGSP_BERT': {'mean': 0.9447898661790786, 'std': 0.006045086626103456, 'n': 10}, 'QGSP_BIC': {'mean': 0.9468046591119308, 'std': 0.0064075013483636456, 'n': 10}}
+Update stage
+mean: 0.9435207835006214 std: 0.0080479851785912 n: 10
+p-value: 1e-12
+BH threshold: 1e-12
+Cross-valid: True
+Best mean so far: 0.9435207835006214
+DAG node: c3daed8c
+Observe stage
+Last experiment geometry: {'detector_size_cm': 12.23, 'material': 'G4_Fe'}
+Material: G4_Fe
+Last experiment mean: 0.9435207835006214
+Last experiment std: 0.0080479851785912
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 16.48, 'material': 'G4_Fe'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9623285143315764, 'std': 0.005795493031202167, 'n': 10}, 'QGSP_BERT': {'mean': 0.9603881351323492, 'std': 0.005797518458634162, 'n': 10}, 'QGSP_BIC': {'mean': 0.9613641256223643, 'std': 0.006223234763437882, 'n': 10}}
+Update stage
+mean: 0.9623285143315764 std: 0.005795493031202167 n: 10
+p-value: 0.02895299740109525
+BH threshold: 0.02895299740109525
+Cross-valid: True
+Best mean so far: 0.9623285143315764
+DAG node: 90340177
+Observe stage
+Last experiment geometry: {'detector_size_cm': 16.48, 'material': 'G4_Fe'}
+Material: G4_Fe
+Last experiment mean: 0.9623285143315764
+Last experiment std: 0.005795493031202167
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 13.9, 'material': 'G4_Cu'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9617921555776141, 'std': 0.004367821528561416, 'n': 10}, 'QGSP_BERT': {'mean': 0.9636719072058086, 'std': 0.006444662096793266, 'n': 10}, 'QGSP_BIC': {'mean': 0.965831416308219, 'std': 0.00653052699742031, 'n': 10}}
+Update stage
+mean: 0.9617921555776141 std: 0.004367821528561416 n: 10
+Cross-valid: True
+Best mean so far: 0.9623285143315764
+DAG node: 39fbf931
+Observe stage
+Last experiment geometry: {'detector_size_cm': 13.9, 'material': 'G4_Cu'}
+Material: G4_Cu
+Last experiment mean: 0.9617921555776141
+Last experiment std: 0.004367821528561416
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 10.21, 'material': 'G4_Pb'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9924759007823253, 'std': 0.005367857325987115, 'n': 10}, 'QGSP_BERT': {'mean': 0.995960399228359, 'std': 0.007011401624361659, 'n': 10}, 'QGSP_BIC': {'mean': 0.9956693757145502, 'std': 0.006019837524412463, 'n': 10}}
+Update stage
+mean: 0.9924759007823253 std: 0.005367857325987115 n: 10
+p-value: 6.771174337050212e-05
+BH threshold: 0.02895299740109525
+Cross-valid: True
+Best mean so far: 0.9924759007823253
+DAG node: bebe838c
+Observe stage
+Last experiment geometry: {'detector_size_cm': 10.21, 'material': 'G4_Pb'}
+Material: G4_Pb
+Last experiment mean: 0.9924759007823253
+Last experiment std: 0.005367857325987115
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 8.04, 'material': 'G4_WATER'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.22167776807564143, 'std': 0.011462581411434442, 'n': 10}, 'QGSP_BERT': {'mean': 0.2214774622309729, 'std': 0.01625946785709637, 'n': 10}, 'QGSP_BIC': {'mean': 0.2252648091227734, 'std': 0.012509731739320077, 'n': 10}}
+Update stage
+mean: 0.22167776807564143 std: 0.011462581411434442 n: 10
+Cross-valid: True
+Best mean so far: 0.9924759007823253
+DAG node: 24f46c93
+Observe stage
+Last experiment geometry: {'detector_size_cm': 8.04, 'material': 'G4_WATER'}
+Material: G4_WATER
+Last experiment mean: 0.22167776807564143
+Last experiment std: 0.011462581411434442
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 13.53, 'material': 'G4_Al'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6584009957886906, 'std': 0.011904930411130586, 'n': 10}, 'QGSP_BERT': {'mean': 0.6576421728818687, 'std': 0.009693338463488101, 'n': 10}, 'QGSP_BIC': {'mean': 0.6567290191330211, 'std': 0.01852968488087807, 'n': 10}}
+Update stage
+mean: 0.6584009957886906 std: 0.011904930411130586 n: 10
+Cross-valid: True
+Best mean so far: 0.9924759007823253
+DAG node: d71e8cf6
+Observe stage
+Last experiment geometry: {'detector_size_cm': 13.53, 'material': 'G4_Al'}
+Material: G4_Al
+Last experiment mean: 0.6584009957886906
+Last experiment std: 0.011904930411130586
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 19.17, 'material': 'G4_Pb'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9930715274113615, 'std': 0.005927393005602571, 'n': 10}, 'QGSP_BERT': {'mean': 0.9917793028446331, 'std': 0.0046075909758681345, 'n': 10}, 'QGSP_BIC': {'mean': 0.994511828826151, 'std': 0.005810043474928052, 'n': 10}}
+Update stage
+mean: 0.9930715274113615 std: 0.005927393005602571 n: 10
+p-value: 0.4703127698249423
+BH threshold: 0.02895299740109525
+Cross-valid: True
+Best mean so far: 0.9924759007823253
+DAG node: 6c88e96a
+Observe stage
+Last experiment geometry: {'detector_size_cm': 19.17, 'material': 'G4_Pb'}
+Material: G4_Pb
+Last experiment mean: 0.9930715274113615
+Last experiment std: 0.005927393005602571
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 14.89, 'material': 'G4_Si'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6570448998427372, 'std': 0.015849103432019482, 'n': 10}, 'QGSP_BERT': {'mean': 0.64344960569792, 'std': 0.010386886707921105, 'n': 10}, 'QGSP_BIC': {'mean': 0.6536546424941141, 'std': 0.006188440200619873, 'n': 10}}
+Update stage
+mean: 0.6570448998427372 std: 0.015849103432019482 n: 10
+Cross-valid: True
+Best mean so far: 0.9924759007823253
+DAG node: 36d62d4a
+Observe stage
+Last experiment geometry: {'detector_size_cm': 14.89, 'material': 'G4_Si'}
+Material: G4_Si
+Last experiment mean: 0.6570448998427372
+Last experiment std: 0.015849103432019482
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 11.47, 'material': 'G4_Pb'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9947865897382029, 'std': 0.006507613739506686, 'n': 10}, 'QGSP_BERT': {'mean': 0.9942737747801177, 'std': 0.004538675076604968, 'n': 10}, 'QGSP_BIC': {'mean': 0.9971422903669328, 'std': 0.005275856450307916, 'n': 10}}
+Update stage
+mean: 0.9947865897382029 std: 0.006507613739506686 n: 10
+p-value: 0.39207527103248985
+BH threshold: 0.02895299740109525
+Cross-valid: True
+Best mean so far: 0.9924759007823253
+DAG node: 66aa79e1
+Observe stage
+Last experiment geometry: {'detector_size_cm': 11.47, 'material': 'G4_Pb'}
+Material: G4_Pb
+Last experiment mean: 0.9947865897382029
+Last experiment std: 0.006507613739506686
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 16.65, 'material': 'G4_Pb'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9946923922401714, 'std': 0.00646795589818749, 'n': 10}, 'QGSP_BERT': {'mean': 0.99905156346338, 'std': 0.0048498008040085356, 'n': 10}, 'QGSP_BIC': {'mean': 0.9955287641970075, 'std': 0.0057264183613860535, 'n': 10}}
+Update stage
+mean: 0.9946923922401714 std: 0.00646795589818749 n: 10
+p-value: 0.39600439354486583
+BH threshold: 0.02895299740109525
+Cross-valid: True
+Best mean so far: 0.9924759007823253
+DAG node: 819ab865
+Observe stage
+Last experiment geometry: {'detector_size_cm': 16.65, 'material': 'G4_Pb'}
+Material: G4_Pb
+Last experiment mean: 0.9946923922401714
+Last experiment std: 0.00646795589818749
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 18.09, 'material': 'G4_Si'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.72535344405581, 'std': 0.007442821961640839, 'n': 10}, 'QGSP_BERT': {'mean': 0.7303282914615329, 'std': 0.006670415720446268, 'n': 10}, 'QGSP_BIC': {'mean': 0.7215374872747301, 'std': 0.014180381101511598, 'n': 10}}
+Update stage
+mean: 0.72535344405581 std: 0.007442821961640839 n: 10
+Cross-valid: True
+Best mean so far: 0.9924759007823253
+DAG node: 5b5231c5
+Observe stage
+Last experiment geometry: {'detector_size_cm': 18.09, 'material': 'G4_Si'}
+Material: G4_Si
+Last experiment mean: 0.72535344405581
+Last experiment std: 0.007442821961640839
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 14.4, 'material': 'G4_Pb'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9929966249233763, 'std': 0.005766938901431373, 'n': 10}, 'QGSP_BERT': {'mean': 0.9956343083150886, 'std': 0.006600933009402113, 'n': 10}, 'QGSP_BIC': {'mean': 0.9942725585669698, 'std': 0.006345234427997642, 'n': 10}}
+Update stage
+mean: 0.9929966249233763 std: 0.005766938901431373 n: 10
+p-value: 0.4736515157952259
+BH threshold: 0.02895299740109525
+Cross-valid: True
+Best mean so far: 0.9924759007823253
+DAG node: 64a5d613
+Observe stage
+Last experiment geometry: {'detector_size_cm': 14.4, 'material': 'G4_Pb'}
+Material: G4_Pb
+Last experiment mean: 0.9929966249233763
+Last experiment std: 0.005766938901431373
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 13.76, 'material': 'G4_Cu'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9617940336828568, 'std': 0.0058974296448231584, 'n': 10}, 'QGSP_BERT': {'mean': 0.9647864410566569, 'std': 0.006931623833963878, 'n': 10}, 'QGSP_BIC': {'mean': 0.9661291222752476, 'std': 0.006710335603801896, 'n': 10}}
+Update stage
+mean: 0.9617940336828568 std: 0.0058974296448231584 n: 10
+Cross-valid: True
+Best mean so far: 0.9924759007823253
+DAG node: b0db2a98
+Observe stage
+Last experiment geometry: {'detector_size_cm': 13.76, 'material': 'G4_Cu'}
+Material: G4_Cu
+Last experiment mean: 0.9617940336828568
+Last experiment std: 0.0058974296448231584
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 8.57, 'material': 'G4_Pb'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9917642781514022, 'std': 0.005676974748921527, 'n': 10}, 'QGSP_BERT': {'mean': 0.9902982617628512, 'std': 0.00644000157897416, 'n': 10}, 'QGSP_BIC': {'mean': 0.9898843691143527, 'std': 0.005431543944614254, 'n': 10}}
+Update stage
+mean: 0.9917642781514022 std: 0.005676974748921527 n: 10
+Cross-valid: True
+Best mean so far: 0.9924759007823253
+DAG node: 7d6183f8
+Observe stage
+Last experiment geometry: {'detector_size_cm': 8.57, 'material': 'G4_Pb'}
+Material: G4_Pb
+Last experiment mean: 0.9917642781514022
+Last experiment std: 0.005676974748921527
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 12.83, 'material': 'G4_Cu'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.96137595044144, 'std': 0.008141188113713945, 'n': 10}, 'QGSP_BERT': {'mean': 0.9604995226152898, 'std': 0.008396578839421994, 'n': 10}, 'QGSP_BIC': {'mean': 0.960504656564017, 'std': 0.007251828879240373, 'n': 10}}
+Update stage
+mean: 0.96137595044144 std: 0.008141188113713945 n: 10
+Cross-valid: True
+Best mean so far: 0.9924759007823253
+DAG node: db0d982c
+Observe stage
+Last experiment geometry: {'detector_size_cm': 12.83, 'material': 'G4_Cu'}
+Material: G4_Cu
+Last experiment mean: 0.96137595044144
+Last experiment std: 0.008141188113713945
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 13.06, 'material': 'G4_WATER'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.33728693480977434, 'std': 0.006928630784193472, 'n': 10}, 'QGSP_BERT': {'mean': 0.34749232798994245, 'std': 0.013483916190586424, 'n': 10}, 'QGSP_BIC': {'mean': 0.34078606688120733, 'std': 0.01139073644781629, 'n': 10}}
+Update stage
+mean: 0.33728693480977434 std: 0.006928630784193472 n: 10
+Cross-valid: True
+Best mean so far: 0.9924759007823253
+DAG node: d1fba2c1
+Observe stage
+Last experiment geometry: {'detector_size_cm': 13.06, 'material': 'G4_WATER'}
+Material: G4_WATER
+Last experiment mean: 0.33728693480977434
+Last experiment std: 0.006928630784193472
+Last experiment n: 10
+Plan stage
+Proposed geometry: {'detector_size_cm': 16.9, 'material': 'G4_WATER'}
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.41872178829227913, 'std': 0.012991842695723883, 'n': 10}, 'QGSP_BERT': {'mean': 0.42321311271823464, 'std': 0.013002016783516113, 'n': 10}, 'QGSP_BIC': {'mean': 0.4290431095002674, 'std': 0.009099146534465093, 'n': 10}}
+Update stage
+mean: 0.41872178829227913 std: 0.012991842695723883 n: 10
+Cross-valid: True
+Best mean so far: 0.9924759007823253
+DAG node: 36d0bd6c
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.38175075439228245, 'std': 0.010703073479596287, 'n': 10}, 'QGSP_BERT': {'mean': 0.38277193915027896, 'std': 0.009043071281500661, 'n': 10}, 'QGSP_BIC': {'mean': 0.37397427604498545, 'std': 0.010772237037152518, 'n': 10}}
+Update stage
+mean: 0.38175075439228245 std: 0.010703073479596287 n: 10
+Cross-valid: True
+Best mean so far: 0.38175075439228245
+DAG node: 75bfcea2
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9681294839169171, 'std': 0.004315700827719678, 'n': 10}, 'QGSP_BERT': {'mean': 0.9651404805594682, 'std': 0.00734889115814938, 'n': 10}, 'QGSP_BIC': {'mean': 0.9654025600250289, 'std': 0.006786382177294391, 'n': 10}}
+Update stage
+mean: 0.9681294839169171 std: 0.004315700827719678 n: 10
+Cross-valid: True
+Best mean so far: 0.9681294839169171
+DAG node: b7786fbc
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.967459551172891, 'std': 0.005487927532837253, 'n': 10}, 'QGSP_BERT': {'mean': 0.9645588079810693, 'std': 0.005301687834144346, 'n': 10}, 'QGSP_BIC': {'mean': 0.9688761540437874, 'std': 0.007068987619232882, 'n': 10}}
+Update stage
+mean: 0.967459551172891 std: 0.005487927532837253 n: 10
+Cross-valid: True
+Best mean so far: 0.967459551172891
+DAG node: 3ed3a7a1
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6140863008132287, 'std': 0.010381761448975162, 'n': 10}, 'QGSP_BERT': {'mean': 0.6085087984193032, 'std': 0.013576002628043789, 'n': 10}, 'QGSP_BIC': {'mean': 0.6119407166453289, 'std': 0.013905853766010157, 'n': 10}}
+Update stage
+mean: 0.6140863008132287 std: 0.010381761448975162 n: 10
+Cross-valid: True
+Best mean so far: 0.6140863008132287
+DAG node: bebf5346
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.42199729427926125, 'std': 0.013583142439179009, 'n': 10}, 'QGSP_BERT': {'mean': 0.4238839720373068, 'std': 0.010870064131073477, 'n': 10}, 'QGSP_BIC': {'mean': 0.4294974681124864, 'std': 0.010941816475470609, 'n': 10}}
+Update stage
+mean: 0.42199729427926125 std: 0.013583142439179009 n: 10
+Cross-valid: True
+Best mean so far: 0.42199729427926125
+DAG node: 24373840
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9562621757550579, 'std': 0.0048637049705419575, 'n': 10}, 'QGSP_BERT': {'mean': 0.9537079328528929, 'std': 0.007226132196686044, 'n': 10}, 'QGSP_BIC': {'mean': 0.9614940706355792, 'std': 0.006620835197427044, 'n': 10}}
+Update stage
+mean: 0.9562621757550579 std: 0.0048637049705419575 n: 10
+Cross-valid: True
+Best mean so far: 0.9562621757550579
+DAG node: 11e10e0c
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9929882383651897, 'std': 0.006049574053836066, 'n': 10}, 'QGSP_BERT': {'mean': 0.9943192881018023, 'std': 0.007074110780696045, 'n': 10}, 'QGSP_BIC': {'mean': 0.9954886261530733, 'std': 0.005948284215029063, 'n': 10}}
+Update stage
+mean: 0.9929882383651897 std: 0.006049574053836066 n: 10
+Cross-valid: True
+Best mean so far: 0.9929882383651897
+DAG node: 6a4bb077
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7052627003070469, 'std': 0.013022444865221304, 'n': 10}, 'QGSP_BERT': {'mean': 0.7015105321348096, 'std': 0.01164590164722146, 'n': 10}, 'QGSP_BIC': {'mean': 0.7029967986184994, 'std': 0.009852978852667347, 'n': 10}}
+Update stage
+mean: 0.7052627003070469 std: 0.013022444865221304 n: 10
+Cross-valid: True
+Best mean so far: 0.7052627003070469
+DAG node: e78dca30
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5424127120051467, 'std': 0.010949501433673342, 'n': 10}, 'QGSP_BERT': {'mean': 0.5384896223610373, 'std': 0.015832658166436336, 'n': 10}, 'QGSP_BIC': {'mean': 0.5430560922357831, 'std': 0.010419150569284602, 'n': 10}}
+Update stage
+mean: 0.5424127120051467 std: 0.010949501433673342 n: 10
+Cross-valid: True
+Best mean so far: 0.5424127120051467
+DAG node: cf44ca18
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.4586419584014809, 'std': 0.010339495112859911, 'n': 10}, 'QGSP_BERT': {'mean': 0.4553379157586003, 'std': 0.015203051561737187, 'n': 10}, 'QGSP_BIC': {'mean': 0.4630014160317838, 'std': 0.007708928299831801, 'n': 10}}
+Update stage
+mean: 0.4586419584014809 std: 0.010339495112859911 n: 10
+Cross-valid: True
+Best mean so far: 0.4586419584014809
+DAG node: 6bdf29bb
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7279302171506001, 'std': 0.009942555248810166, 'n': 10}, 'QGSP_BERT': {'mean': 0.7235310276210088, 'std': 0.0041369943142590465, 'n': 10}, 'QGSP_BIC': {'mean': 0.7242153591704708, 'std': 0.01369960346739251, 'n': 10}}
+Update stage
+mean: 0.7279302171506001 std: 0.009942555248810166 n: 10
+Cross-valid: True
+Best mean so far: 0.7279302171506001
+DAG node: fc0049ed
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9539981390224164, 'std': 0.006870096425581846, 'n': 10}, 'QGSP_BERT': {'mean': 0.9499684979020853, 'std': 0.006216562058253969, 'n': 10}, 'QGSP_BIC': {'mean': 0.9488276316100567, 'std': 0.006637143438298143, 'n': 10}}
+Update stage
+mean: 0.9539981390224164 std: 0.006870096425581846 n: 10
+Cross-valid: True
+Best mean so far: 0.9539981390224164
+DAG node: 50a018b6
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9718783186082197, 'std': 0.005739762281346355, 'n': 10}, 'QGSP_BERT': {'mean': 0.9677263082825499, 'std': 0.006943643580470696, 'n': 10}, 'QGSP_BIC': {'mean': 0.9695118405939069, 'std': 0.005214327594694633, 'n': 10}}
+Update stage
+mean: 0.9718783186082197 std: 0.005739762281346355 n: 10
+Cross-valid: True
+Best mean so far: 0.9718783186082197
+DAG node: 7406fb1d
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7264916244244524, 'std': 0.009643542432971693, 'n': 10}, 'QGSP_BERT': {'mean': 0.7175073556862182, 'std': 0.007984064318400211, 'n': 10}, 'QGSP_BIC': {'mean': 0.7282186605539853, 'std': 0.008139329730867065, 'n': 10}}
+Update stage
+mean: 0.7264916244244524 std: 0.009643542432971693 n: 10
+Cross-valid: True
+Best mean so far: 0.7264916244244524
+DAG node: 048b7da9
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.4033300488133157, 'std': 0.011207661940639914, 'n': 10}, 'QGSP_BERT': {'mean': 0.403694477845403, 'std': 0.010979868410773549, 'n': 10}, 'QGSP_BIC': {'mean': 0.40738361816588037, 'std': 0.013002300954013384, 'n': 10}}
+Update stage
+mean: 0.4033300488133157 std: 0.011207661940639914 n: 10
+Cross-valid: True
+Best mean so far: 0.4033300488133157
+DAG node: e57d9571
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9480402963645987, 'std': 0.007301389709120316, 'n': 10}, 'QGSP_BERT': {'mean': 0.9490057345162842, 'std': 0.006618382670380629, 'n': 10}, 'QGSP_BIC': {'mean': 0.9535865850787282, 'std': 0.00629355377119131, 'n': 10}}
+Update stage
+mean: 0.9480402963645987 std: 0.007301389709120316 n: 10
+Cross-valid: True
+Best mean so far: 0.9480402963645987
+DAG node: 6f947749
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.35388223508291994, 'std': 0.011773097925436455, 'n': 10}, 'QGSP_BERT': {'mean': 0.3582201819849168, 'std': 0.011111663041166757, 'n': 10}, 'QGSP_BIC': {'mean': 0.3624227108597821, 'std': 0.009740621207350362, 'n': 10}}
+Update stage
+mean: 0.35388223508291994 std: 0.011773097925436455 n: 10
+Cross-valid: True
+Best mean so far: 0.35388223508291994
+DAG node: 98ddc4f9
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.929836284265078, 'std': 0.008067094821847566, 'n': 10}, 'QGSP_BERT': {'mean': 0.9309504228082843, 'std': 0.009753998449638084, 'n': 10}, 'QGSP_BIC': {'mean': 0.9324039744335255, 'std': 0.009189554752004779, 'n': 10}}
+Update stage
+mean: 0.929836284265078 std: 0.008067094821847566 n: 10
+Cross-valid: True
+Best mean so far: 0.929836284265078
+DAG node: 56bcefd7
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.22340876876161211, 'std': 0.009775778251927577, 'n': 10}, 'QGSP_BERT': {'mean': 0.21925791774853715, 'std': 0.017192976993688852, 'n': 10}, 'QGSP_BIC': {'mean': 0.22190921320606116, 'std': 0.015286482295947793, 'n': 10}}
+Update stage
+mean: 0.22340876876161211 std: 0.009775778251927577 n: 10
+Cross-valid: True
+Best mean so far: 0.22340876876161211
+DAG node: 4a5f4918
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.4204780804332458, 'std': 0.009173771282638559, 'n': 10}, 'QGSP_BERT': {'mean': 0.4128878307494235, 'std': 0.010942312255857725, 'n': 10}, 'QGSP_BIC': {'mean': 0.42392292994210334, 'std': 0.012711912664493858, 'n': 10}}
+Update stage
+mean: 0.4204780804332458 std: 0.009173771282638559 n: 10
+Cross-valid: True
+Best mean so far: 0.4204780804332458
+DAG node: 717890a8
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.8634104248229848, 'std': 0.007894393340894534, 'n': 10}, 'QGSP_BERT': {'mean': 0.8663298906146537, 'std': 0.006785705726840629, 'n': 10}, 'QGSP_BIC': {'mean': 0.8712344104726186, 'std': 0.005473474100046733, 'n': 10}}
+Update stage
+mean: 0.8634104248229848 std: 0.007894393340894534 n: 10
+Cross-valid: True
+Best mean so far: 0.8634104248229848
+DAG node: 247e69d8
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.45765045751338046, 'std': 0.010176836128481616, 'n': 10}, 'QGSP_BERT': {'mean': 0.4512217511462143, 'std': 0.011189564447221686, 'n': 10}, 'QGSP_BIC': {'mean': 0.4618374317999808, 'std': 0.008491577891040455, 'n': 10}}
+Update stage
+mean: 0.45765045751338046 std: 0.010176836128481616 n: 10
+Cross-valid: True
+Best mean so far: 0.45765045751338046
+DAG node: 6bdf29bb
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9002735999104589, 'std': 0.007823087541359524, 'n': 10}, 'QGSP_BERT': {'mean': 0.8941803721514855, 'std': 0.00905943980028963, 'n': 10}, 'QGSP_BIC': {'mean': 0.9053830138958461, 'std': 0.010778188556162171, 'n': 10}}
+Update stage
+mean: 0.9002735999104589 std: 0.007823087541359524 n: 10
+Cross-valid: True
+Best mean so far: 0.9002735999104589
+DAG node: b1a0664c
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9888141118390676, 'std': 0.008574540109281282, 'n': 10}, 'QGSP_BERT': {'mean': 0.9895197917742845, 'std': 0.006255290689002736, 'n': 10}, 'QGSP_BIC': {'mean': 0.9914223507972068, 'std': 0.004966515858644861, 'n': 10}}
+Update stage
+mean: 0.9888141118390676 std: 0.008574540109281282 n: 10
+Cross-valid: True
+Best mean so far: 0.9888141118390676
+DAG node: 7d33e344
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.2461682109530452, 'std': 0.009805030823116043, 'n': 10}, 'QGSP_BERT': {'mean': 0.24190407535758726, 'std': 0.013360541458915022, 'n': 10}, 'QGSP_BIC': {'mean': 0.24478042180622578, 'std': 0.008967096909340931, 'n': 10}}
+Update stage
+mean: 0.2461682109530452 std: 0.009805030823116043 n: 10
+Cross-valid: True
+Best mean so far: 0.2461682109530452
+DAG node: 0431211b
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.45774008985965686, 'std': 0.008439652886137636, 'n': 10}, 'QGSP_BERT': {'mean': 0.45733053244452765, 'std': 0.008647853993102172, 'n': 10}, 'QGSP_BIC': {'mean': 0.4621610598731297, 'std': 0.010989676209822557, 'n': 10}}
+Update stage
+mean: 0.45774008985965686 std: 0.008439652886137636 n: 10
+Cross-valid: True
+Best mean so far: 0.45774008985965686
+DAG node: b0ad3758
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.8966987402928132, 'std': 0.006599562600277341, 'n': 10}, 'QGSP_BERT': {'mean': 0.8945734242269013, 'std': 0.007889588526317692, 'n': 10}, 'QGSP_BIC': {'mean': 0.9011348532790843, 'std': 0.009097217828589842, 'n': 10}}
+Update stage
+mean: 0.8966987402928132 std: 0.006599562600277341 n: 10
+Cross-valid: True
+Best mean so far: 0.8966987402928132
+DAG node: a2dd6ea7
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5063089759390363, 'std': 0.013312816248216251, 'n': 10}, 'QGSP_BERT': {'mean': 0.5002282085835101, 'std': 0.012509577881229047, 'n': 10}, 'QGSP_BIC': {'mean': 0.49054900479654, 'std': 0.005870592261399048, 'n': 10}}
+Update stage
+mean: 0.5063089759390363 std: 0.013312816248216251 n: 10
+Cross-valid: True
+Best mean so far: 0.5063089759390363
+DAG node: 07107e9d
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9226417698997457, 'std': 0.007227397161898131, 'n': 10}, 'QGSP_BERT': {'mean': 0.9194465742214909, 'std': 0.00942185538139001, 'n': 10}, 'QGSP_BIC': {'mean': 0.9256670578091001, 'std': 0.00574296463120942, 'n': 10}}
+Update stage
+mean: 0.9226417698997457 std: 0.007227397161898131 n: 10
+Cross-valid: True
+Best mean so far: 0.9226417698997457
+DAG node: 5cbef02c
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9923520241739439, 'std': 0.005841919322259836, 'n': 10}, 'QGSP_BERT': {'mean': 0.9909956223081645, 'std': 0.007175669422745815, 'n': 10}, 'QGSP_BIC': {'mean': 0.9971453154414528, 'std': 0.006094716269401059, 'n': 10}}
+Update stage
+mean: 0.9923520241739439 std: 0.005841919322259836 n: 10
+Cross-valid: True
+Best mean so far: 0.9923520241739439
+DAG node: a9b07908
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.2697304078267271, 'std': 0.012423243057266085, 'n': 10}, 'QGSP_BERT': {'mean': 0.27832080843043494, 'std': 0.007332529207099687, 'n': 10}, 'QGSP_BIC': {'mean': 0.2735694785736629, 'std': 0.01102437362973164, 'n': 10}}
+Update stage
+mean: 0.2697304078267271 std: 0.012423243057266085 n: 10
+Cross-valid: True
+Best mean so far: 0.2697304078267271
+DAG node: 301b263b
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5004688237168792, 'std': 0.011463843725186107, 'n': 10}, 'QGSP_BERT': {'mean': 0.5040898661511597, 'std': 0.013671931941179756, 'n': 10}, 'QGSP_BIC': {'mean': 0.49456465239620134, 'std': 0.012325459642688835, 'n': 10}}
+Update stage
+mean: 0.5004688237168792 std: 0.011463843725186107 n: 10
+Cross-valid: True
+Best mean so far: 0.5004688237168792
+DAG node: 210ec7e5
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9154040456558616, 'std': 0.006816137666306514, 'n': 10}, 'QGSP_BERT': {'mean': 0.9144927061567282, 'std': 0.004817476254813347, 'n': 10}, 'QGSP_BIC': {'mean': 0.9144739896908722, 'std': 0.006277095660752191, 'n': 10}}
+Update stage
+mean: 0.9154040456558616 std: 0.006816137666306514 n: 10
+Cross-valid: True
+Best mean so far: 0.9154040456558616
+DAG node: bae837a5
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5410737848645608, 'std': 0.012753235215559936, 'n': 10}, 'QGSP_BERT': {'mean': 0.5374183366033567, 'std': 0.012683851871475972, 'n': 10}, 'QGSP_BIC': {'mean': 0.5393889394200502, 'std': 0.01119858140307894, 'n': 10}}
+Update stage
+mean: 0.5410737848645608 std: 0.012753235215559936 n: 10
+Cross-valid: True
+Best mean so far: 0.5410737848645608
+DAG node: cf44ca18
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.939358550832039, 'std': 0.008895735889968136, 'n': 10}, 'QGSP_BERT': {'mean': 0.9403001424458344, 'std': 0.005395901476798775, 'n': 10}, 'QGSP_BIC': {'mean': 0.9389632490579345, 'std': 0.0076960388775338924, 'n': 10}}
+Update stage
+mean: 0.939358550832039 std: 0.008895735889968136 n: 10
+Cross-valid: True
+Best mean so far: 0.939358550832039
+DAG node: 7e8f5553
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9924096169026526, 'std': 0.005482385162529708, 'n': 10}, 'QGSP_BERT': {'mean': 0.9937896328079298, 'std': 0.0038440007642592147, 'n': 10}, 'QGSP_BIC': {'mean': 0.9933237517056437, 'std': 0.006787022508056985, 'n': 10}}
+Update stage
+mean: 0.9924096169026526 std: 0.005482385162529708 n: 10
+Cross-valid: True
+Best mean so far: 0.9924096169026526
+DAG node: 8c970655
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.2973967969723358, 'std': 0.016824774076414042, 'n': 10}, 'QGSP_BERT': {'mean': 0.2927330921314087, 'std': 0.011261339920546861, 'n': 10}, 'QGSP_BIC': {'mean': 0.2935659460720719, 'std': 0.0077887404133251785, 'n': 10}}
+Update stage
+mean: 0.2973967969723358 std: 0.016824774076414042 n: 10
+Cross-valid: True
+Best mean so far: 0.2973967969723358
+DAG node: fb222a79
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.53128067504065, 'std': 0.01437595727106147, 'n': 10}, 'QGSP_BERT': {'mean': 0.5249811653626449, 'std': 0.018601959790143494, 'n': 10}, 'QGSP_BIC': {'mean': 0.5369363090201322, 'std': 0.015799948701745937, 'n': 10}}
+Update stage
+mean: 0.53128067504065 std: 0.01437595727106147 n: 10
+Cross-valid: True
+Best mean so far: 0.53128067504065
+DAG node: cc2543df
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.929672899478, 'std': 0.006382394854031648, 'n': 10}, 'QGSP_BERT': {'mean': 0.9309040325562974, 'std': 0.007735863033207492, 'n': 10}, 'QGSP_BIC': {'mean': 0.93172106989009, 'std': 0.006388996069480124, 'n': 10}}
+Update stage
+mean: 0.929672899478 std: 0.006382394854031648 n: 10
+Cross-valid: True
+Best mean so far: 0.929672899478
+DAG node: 56bcefd7
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5730198044089811, 'std': 0.012835735823239025, 'n': 10}, 'QGSP_BERT': {'mean': 0.5778089705487253, 'std': 0.013599708703951493, 'n': 10}, 'QGSP_BIC': {'mean': 0.5769629763158751, 'std': 0.011483522367807272, 'n': 10}}
+Update stage
+mean: 0.5730198044089811 std: 0.012835735823239025 n: 10
+Cross-valid: True
+Best mean so far: 0.5730198044089811
+DAG node: fba37370
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.949080357960141, 'std': 0.006888928686831786, 'n': 10}, 'QGSP_BERT': {'mean': 0.9518505059372012, 'std': 0.0034177680532636165, 'n': 10}, 'QGSP_BIC': {'mean': 0.9549009948910481, 'std': 0.004855748666717966, 'n': 10}}
+Update stage
+mean: 0.949080357960141 std: 0.006888928686831786 n: 10
+Cross-valid: True
+Best mean so far: 0.949080357960141
+DAG node: 6f947749
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9924792265555537, 'std': 0.004417889003790994, 'n': 10}, 'QGSP_BERT': {'mean': 0.9955955900735172, 'std': 0.0052253645616431015, 'n': 10}, 'QGSP_BIC': {'mean': 0.9947331119659204, 'std': 0.004609418188813188, 'n': 10}}
+Update stage
+mean: 0.9924792265555537 std: 0.004417889003790994 n: 10
+Cross-valid: True
+Best mean so far: 0.9924792265555537
+DAG node: ed459604
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.3153080426016428, 'std': 0.008127977480970562, 'n': 10}, 'QGSP_BERT': {'mean': 0.31928972658701393, 'std': 0.013192991003038675, 'n': 10}, 'QGSP_BIC': {'mean': 0.3115935218545463, 'std': 0.009392917532200437, 'n': 10}}
+Update stage
+mean: 0.3153080426016428 std: 0.008127977480970562 n: 10
+Cross-valid: True
+Best mean so far: 0.3153080426016428
+DAG node: 0eb390ee
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5692654449568381, 'std': 0.010022596457628615, 'n': 10}, 'QGSP_BERT': {'mean': 0.566688833180052, 'std': 0.013206267086702118, 'n': 10}, 'QGSP_BIC': {'mean': 0.5704021268969434, 'std': 0.013952769425885416, 'n': 10}}
+Update stage
+mean: 0.5692654449568381 std: 0.010022596457628615 n: 10
+Cross-valid: True
+Best mean so far: 0.5692654449568381
+DAG node: 061b1941
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9395821209056281, 'std': 0.007028175825980575, 'n': 10}, 'QGSP_BERT': {'mean': 0.9420324911280462, 'std': 0.005124678620729534, 'n': 10}, 'QGSP_BIC': {'mean': 0.9419033967021843, 'std': 0.005929492676452749, 'n': 10}}
+Update stage
+mean: 0.9395821209056281 std: 0.007028175825980575 n: 10
+Cross-valid: True
+Best mean so far: 0.9395821209056281
+DAG node: d7c79a6e
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.615487378451207, 'std': 0.011668180170249877, 'n': 10}, 'QGSP_BERT': {'mean': 0.6097501922198358, 'std': 0.012182257111679057, 'n': 10}, 'QGSP_BIC': {'mean': 0.6064241651205169, 'std': 0.01632647009263162, 'n': 10}}
+Update stage
+mean: 0.615487378451207 std: 0.011668180170249877 n: 10
+Cross-valid: True
+Best mean so far: 0.615487378451207
+DAG node: bebf5346
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9570631394973056, 'std': 0.009739206581329523, 'n': 10}, 'QGSP_BERT': {'mean': 0.9580455589513821, 'std': 0.00760439956435756, 'n': 10}, 'QGSP_BIC': {'mean': 0.9605722089175343, 'std': 0.005774285265036219, 'n': 10}}
+Update stage
+mean: 0.9570631394973056 std: 0.009739206581329523 n: 10
+Cross-valid: True
+Best mean so far: 0.9570631394973056
+DAG node: 11e10e0c
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9944387951997251, 'std': 0.0064802539356384505, 'n': 10}, 'QGSP_BERT': {'mean': 0.998239731971705, 'std': 0.005309522144092076, 'n': 10}, 'QGSP_BIC': {'mean': 0.9970528251150776, 'std': 0.003590172624340309, 'n': 10}}
+Update stage
+mean: 0.9944387951997251 std: 0.0064802539356384505 n: 10
+Cross-valid: True
+Best mean so far: 0.9944387951997251
+DAG node: 6a4bb077
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.3362750704668932, 'std': 0.013748553843214587, 'n': 10}, 'QGSP_BERT': {'mean': 0.34388093357184035, 'std': 0.013313093371500606, 'n': 10}, 'QGSP_BIC': {'mean': 0.34000160303690585, 'std': 0.009183800964756987, 'n': 10}}
+Update stage
+mean: 0.3362750704668932 std: 0.013748553843214587 n: 10
+Cross-valid: True
+Best mean so far: 0.3362750704668932
+DAG node: 944e9e77
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5993017409562008, 'std': 0.014960467215663081, 'n': 10}, 'QGSP_BERT': {'mean': 0.5984694193080099, 'std': 0.013020588147744361, 'n': 10}, 'QGSP_BIC': {'mean': 0.5978448468567467, 'std': 0.007190022800651492, 'n': 10}}
+Update stage
+mean: 0.5993017409562008 std: 0.014960467215663081 n: 10
+Cross-valid: True
+Best mean so far: 0.5993017409562008
+DAG node: b1b1e482
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9491581653784538, 'std': 0.005980308535855364, 'n': 10}, 'QGSP_BERT': {'mean': 0.946570691066064, 'std': 0.006453473758510645, 'n': 10}, 'QGSP_BIC': {'mean': 0.9501363923395811, 'std': 0.005983059383263977, 'n': 10}}
+Update stage
+mean: 0.9491581653784538 std: 0.005980308535855364 n: 10
+Cross-valid: True
+Best mean so far: 0.9491581653784538
+DAG node: 50a018b6
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6467316963331926, 'std': 0.011721391328706697, 'n': 10}, 'QGSP_BERT': {'mean': 0.635721371312145, 'std': 0.007232889589278313, 'n': 10}, 'QGSP_BIC': {'mean': 0.6436380996496356, 'std': 0.014145936652844712, 'n': 10}}
+Update stage
+mean: 0.6467316963331926 std: 0.011721391328706697 n: 10
+Cross-valid: True
+Best mean so far: 0.6467316963331926
+DAG node: 0b49c2ca
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9605016966517098, 'std': 0.008130395227672215, 'n': 10}, 'QGSP_BERT': {'mean': 0.9611751397543273, 'std': 0.006198595296500797, 'n': 10}, 'QGSP_BIC': {'mean': 0.9651752126201518, 'std': 0.005176686467647091, 'n': 10}}
+Update stage
+mean: 0.9605016966517098 std: 0.008130395227672215 n: 10
+Cross-valid: True
+Best mean so far: 0.9605016966517098
+DAG node: 3b998709
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9947461568689164, 'std': 0.003500345120438351, 'n': 10}, 'QGSP_BERT': {'mean': 0.9965372621932792, 'std': 0.005383528238847041, 'n': 10}, 'QGSP_BIC': {'mean': 0.9950186738542142, 'std': 0.006266359639754498, 'n': 10}}
+Update stage
+mean: 0.9947461568689164 std: 0.003500345120438351 n: 10
+Cross-valid: True
+Best mean so far: 0.9947461568689164
+DAG node: de64f1c8
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.35593045869933626, 'std': 0.012354849814350932, 'n': 10}, 'QGSP_BERT': {'mean': 0.36114946439123424, 'std': 0.012028289688861762, 'n': 10}, 'QGSP_BIC': {'mean': 0.3598338579584688, 'std': 0.013312176729508875, 'n': 10}}
+Update stage
+mean: 0.35593045869933626 std: 0.012354849814350932 n: 10
+Cross-valid: True
+Best mean so far: 0.35593045869933626
+DAG node: 98ddc4f9
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6233532681925419, 'std': 0.016172598110370265, 'n': 10}, 'QGSP_BERT': {'mean': 0.6256913898109501, 'std': 0.01130495011782198, 'n': 10}, 'QGSP_BIC': {'mean': 0.6273890921375649, 'std': 0.010671921387778364, 'n': 10}}
+Update stage
+mean: 0.6233532681925419 std: 0.016172598110370265 n: 10
+Cross-valid: True
+Best mean so far: 0.6233532681925419
+DAG node: 1ab725da
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.957351915980911, 'std': 0.005607716844458736, 'n': 10}, 'QGSP_BERT': {'mean': 0.9491737801753765, 'std': 0.005040858353053113, 'n': 10}, 'QGSP_BIC': {'mean': 0.9589227689621691, 'std': 0.005114278369089526, 'n': 10}}
+Update stage
+mean: 0.957351915980911 std: 0.005607716844458736 n: 10
+Cross-valid: True
+Best mean so far: 0.957351915980911
+DAG node: f2168b91
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6675256993309368, 'std': 0.009037469562966407, 'n': 10}, 'QGSP_BERT': {'mean': 0.6698152433779041, 'std': 0.015117608297375778, 'n': 10}, 'QGSP_BIC': {'mean': 0.6673684390621764, 'std': 0.008215797269447555, 'n': 10}}
+Update stage
+mean: 0.6675256993309368 std: 0.009037469562966407 n: 10
+Cross-valid: True
+Best mean so far: 0.6675256993309368
+DAG node: 8c171f70
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9652647942667014, 'std': 0.006823914866100608, 'n': 10}, 'QGSP_BERT': {'mean': 0.9607738041469149, 'std': 0.00487524899727001, 'n': 10}, 'QGSP_BIC': {'mean': 0.9647315014665383, 'std': 0.007668822097215269, 'n': 10}}
+Update stage
+mean: 0.9652647942667014 std: 0.006823914866100608 n: 10
+Cross-valid: True
+Best mean so far: 0.9652647942667014
+DAG node: 3184d902
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9910753020073166, 'std': 0.004509843846266967, 'n': 10}, 'QGSP_BERT': {'mean': 0.993582808415822, 'std': 0.007003948638136595, 'n': 10}, 'QGSP_BIC': {'mean': 0.9964897453073351, 'std': 0.005182013208069372, 'n': 10}}
+Update stage
+mean: 0.9910753020073166 std: 0.004509843846266967 n: 10
+Cross-valid: True
+Best mean so far: 0.9910753020073166
+DAG node: 107e8664
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.38231877009954573, 'std': 0.011424517612076173, 'n': 10}, 'QGSP_BERT': {'mean': 0.3873003743761365, 'std': 0.00964674703032242, 'n': 10}, 'QGSP_BIC': {'mean': 0.3820404033513347, 'std': 0.011543673213203098, 'n': 10}}
+Update stage
+mean: 0.38231877009954573 std: 0.011424517612076173 n: 10
+Cross-valid: True
+Best mean so far: 0.38231877009954573
+DAG node: 75bfcea2
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6599062245525011, 'std': 0.011124373262817526, 'n': 10}, 'QGSP_BERT': {'mean': 0.6497113389044336, 'std': 0.0143267991591618, 'n': 10}, 'QGSP_BIC': {'mean': 0.6597133954562617, 'std': 0.00965236286745189, 'n': 10}}
+Update stage
+mean: 0.6599062245525011 std: 0.011124373262817526 n: 10
+Cross-valid: True
+Best mean so far: 0.6599062245525011
+DAG node: b64cb8b0
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9560345082691206, 'std': 0.005929907372104928, 'n': 10}, 'QGSP_BERT': {'mean': 0.9562560434478184, 'std': 0.005373816717217778, 'n': 10}, 'QGSP_BIC': {'mean': 0.9592122510770464, 'std': 0.006493929676733056, 'n': 10}}
+Update stage
+mean: 0.9560345082691206 std: 0.005929907372104928 n: 10
+Cross-valid: True
+Best mean so far: 0.9560345082691206
+DAG node: a43f0b0c
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.702061848006367, 'std': 0.012635560287398206, 'n': 10}, 'QGSP_BERT': {'mean': 0.6911659906201653, 'std': 0.013569900065492208, 'n': 10}, 'QGSP_BIC': {'mean': 0.7001338494733489, 'std': 0.01186912477365957, 'n': 10}}
+Update stage
+mean: 0.702061848006367 std: 0.012635560287398206 n: 10
+Cross-valid: True
+Best mean so far: 0.702061848006367
+DAG node: 8a489c23
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9665622522341785, 'std': 0.006654702341752857, 'n': 10}, 'QGSP_BERT': {'mean': 0.9645214672619918, 'std': 0.0053770152705877785, 'n': 10}, 'QGSP_BIC': {'mean': 0.9684151214161115, 'std': 0.0077085997876423845, 'n': 10}}
+Update stage
+mean: 0.9665622522341785 std: 0.006654702341752857 n: 10
+Cross-valid: True
+Best mean so far: 0.9665622522341785
+DAG node: 3ed3a7a1
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9926077265462974, 'std': 0.005413453509616754, 'n': 10}, 'QGSP_BERT': {'mean': 0.9940545655307075, 'std': 0.006053442632840221, 'n': 10}, 'QGSP_BIC': {'mean': 0.992896152729708, 'std': 0.007462575139420099, 'n': 10}}
+Update stage
+mean: 0.9926077265462974 std: 0.005413453509616754 n: 10
+Cross-valid: True
+Best mean so far: 0.9926077265462974
+DAG node: c0771e0a
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.401185890511092, 'std': 0.010756632657474136, 'n': 10}, 'QGSP_BERT': {'mean': 0.4036716074221219, 'std': 0.010788655172632493, 'n': 10}, 'QGSP_BIC': {'mean': 0.40761424247340006, 'std': 0.012327880877750353, 'n': 10}}
+Update stage
+mean: 0.401185890511092 std: 0.010756632657474136 n: 10
+Cross-valid: True
+Best mean so far: 0.401185890511092
+DAG node: e57d9571
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6816008348873427, 'std': 0.010037724292885354, 'n': 10}, 'QGSP_BERT': {'mean': 0.6762234844734362, 'std': 0.012944899261747892, 'n': 10}, 'QGSP_BIC': {'mean': 0.682159954139172, 'std': 0.013055834882234404, 'n': 10}}
+Update stage
+mean: 0.6816008348873427 std: 0.010037724292885354 n: 10
+Cross-valid: True
+Best mean so far: 0.6816008348873427
+DAG node: 62adcc93
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.962497897698204, 'std': 0.006097059438919378, 'n': 10}, 'QGSP_BERT': {'mean': 0.9611565660987997, 'std': 0.006762953635231516, 'n': 10}, 'QGSP_BIC': {'mean': 0.9655031517645154, 'std': 0.004524601370635118, 'n': 10}}
+Update stage
+mean: 0.962497897698204 std: 0.006097059438919378 n: 10
+Cross-valid: True
+Best mean so far: 0.962497897698204
+DAG node: 7ada46fc
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7273296143718946, 'std': 0.010796057001388349, 'n': 10}, 'QGSP_BERT': {'mean': 0.7188951706623651, 'std': 0.008550934740079964, 'n': 10}, 'QGSP_BIC': {'mean': 0.7261825901606228, 'std': 0.0130451337420919, 'n': 10}}
+Update stage
+mean: 0.7273296143718946 std: 0.010796057001388349 n: 10
+Cross-valid: True
+Best mean so far: 0.7273296143718946
+DAG node: 048b7da9
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.970444940445477, 'std': 0.006963404694406871, 'n': 10}, 'QGSP_BERT': {'mean': 0.9645842044025214, 'std': 0.004992122679656672, 'n': 10}, 'QGSP_BIC': {'mean': 0.9706458026211215, 'std': 0.005205161027232278, 'n': 10}}
+Update stage
+mean: 0.970444940445477 std: 0.006963404694406871 n: 10
+Cross-valid: True
+Best mean so far: 0.970444940445477
+DAG node: 3a30b769
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9949307352212837, 'std': 0.004631727687437307, 'n': 10}, 'QGSP_BERT': {'mean': 0.996007745736471, 'std': 0.004286647141506193, 'n': 10}, 'QGSP_BIC': {'mean': 0.9978822276207705, 'std': 0.005644615219296667, 'n': 10}}
+Update stage
+mean: 0.9949307352212837 std: 0.004631727687437307 n: 10
+Cross-valid: True
+Best mean so far: 0.9949307352212837
+DAG node: b39bee53
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.41895121441191596, 'std': 0.012564328022657709, 'n': 10}, 'QGSP_BERT': {'mean': 0.4235918652666647, 'std': 0.008978232334895338, 'n': 10}, 'QGSP_BIC': {'mean': 0.42945715890041186, 'std': 0.013910799258471055, 'n': 10}}
+Update stage
+mean: 0.41895121441191596 std: 0.012564328022657709 n: 10
+Cross-valid: True
+Best mean so far: 0.41895121441191596
+DAG node: 24373840
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.703373648096642, 'std': 0.01407344402722417, 'n': 10}, 'QGSP_BERT': {'mean': 0.7020556176384721, 'std': 0.015835095121584944, 'n': 10}, 'QGSP_BIC': {'mean': 0.7007827054594287, 'std': 0.013419583182839251, 'n': 10}}
+Update stage
+mean: 0.703373648096642 std: 0.01407344402722417 n: 10
+Cross-valid: True
+Best mean so far: 0.703373648096642
+DAG node: e78dca30
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9657109946540497, 'std': 0.004627504253854661, 'n': 10}, 'QGSP_BERT': {'mean': 0.9630414372272996, 'std': 0.006357891595443808, 'n': 10}, 'QGSP_BIC': {'mean': 0.964509750361195, 'std': 0.0072000223302844365, 'n': 10}}
+Update stage
+mean: 0.9657109946540497 std: 0.004627504253854661 n: 10
+Cross-valid: True
+Best mean so far: 0.9657109946540497
+DAG node: b7786fbc
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.756069409376218, 'std': 0.01237007411135929, 'n': 10}, 'QGSP_BERT': {'mean': 0.7453796950359809, 'std': 0.010060302676643781, 'n': 10}, 'QGSP_BIC': {'mean': 0.7419237668364916, 'std': 0.015574555274482047, 'n': 10}}
+Update stage
+mean: 0.756069409376218 std: 0.01237007411135929 n: 10
+Cross-valid: True
+Best mean so far: 0.756069409376218
+DAG node: 2a2765d2
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9689213687797228, 'std': 0.005691400883426313, 'n': 10}, 'QGSP_BERT': {'mean': 0.9676815040631632, 'std': 0.005869999105095842, 'n': 10}, 'QGSP_BIC': {'mean': 0.9698335628842649, 'std': 0.006579737470393464, 'n': 10}}
+Update stage
+mean: 0.9689213687797228 std: 0.005691400883426313 n: 10
+Cross-valid: True
+Best mean so far: 0.9689213687797228
+DAG node: 9ba603af
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9966858947307546, 'std': 0.005811124213823587, 'n': 10}, 'QGSP_BERT': {'mean': 0.9947521598974192, 'std': 0.006813901981133275, 'n': 10}, 'QGSP_BIC': {'mean': 0.9966918971953719, 'std': 0.005915757584516159, 'n': 10}}
+Update stage
+mean: 0.9966858947307546 std: 0.005811124213823587 n: 10
+Cross-valid: True
+Best mean so far: 0.9966858947307546
+DAG node: 04a0238e
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.4393355440189632, 'std': 0.01111816929622151, 'n': 10}, 'QGSP_BERT': {'mean': 0.44161127110764653, 'std': 0.014042317687929042, 'n': 10}, 'QGSP_BIC': {'mean': 0.4463842587249454, 'std': 0.011576444716419375, 'n': 10}}
+Update stage
+mean: 0.4393355440189632 std: 0.01111816929622151 n: 10
+Cross-valid: True
+Best mean so far: 0.4393355440189632
+DAG node: 344b1635
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.731085273980135, 'std': 0.007789554291911453, 'n': 10}, 'QGSP_BERT': {'mean': 0.726194504773709, 'std': 0.010815293021409909, 'n': 10}, 'QGSP_BIC': {'mean': 0.7224759369737244, 'std': 0.012869656367624849, 'n': 10}}
+Update stage
+mean: 0.731085273980135 std: 0.007789554291911453 n: 10
+Cross-valid: True
+Best mean so far: 0.731085273980135
+DAG node: fc0049ed
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9640964475038152, 'std': 0.004927195870358811, 'n': 10}, 'QGSP_BERT': {'mean': 0.9666273762108648, 'std': 0.007283147125759848, 'n': 10}, 'QGSP_BIC': {'mean': 0.9677852713067855, 'std': 0.004373633928517718, 'n': 10}}
+Update stage
+mean: 0.9640964475038152 std: 0.004927195870358811 n: 10
+Cross-valid: True
+Best mean so far: 0.9640964475038152
+DAG node: 2ea697cf
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7736273189146128, 'std': 0.01016747872501613, 'n': 10}, 'QGSP_BERT': {'mean': 0.7627848527493347, 'std': 0.010786811224371494, 'n': 10}, 'QGSP_BIC': {'mean': 0.7703715637453413, 'std': 0.010915808635018698, 'n': 10}}
+Update stage
+mean: 0.7736273189146128 std: 0.01016747872501613 n: 10
+Cross-valid: True
+Best mean so far: 0.7736273189146128
+DAG node: 47c7d93d
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9717256247777678, 'std': 0.0059177482249104145, 'n': 10}, 'QGSP_BERT': {'mean': 0.9703558199217172, 'std': 0.0063465638950614845, 'n': 10}, 'QGSP_BIC': {'mean': 0.968227071970104, 'std': 0.005147887389492372, 'n': 10}}
+Update stage
+mean: 0.9717256247777678 std: 0.0059177482249104145 n: 10
+Cross-valid: True
+Best mean so far: 0.9717256247777678
+DAG node: 415458d1
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9930755145228716, 'std': 0.005988901679567623, 'n': 10}, 'QGSP_BERT': {'mean': 0.9950819192423094, 'std': 0.003653651753094358, 'n': 10}, 'QGSP_BIC': {'mean': 0.9935568807120818, 'std': 0.006769861149123581, 'n': 10}}
+Update stage
+mean: 0.9930755145228716 std: 0.005988901679567623 n: 10
+Cross-valid: True
+Best mean so far: 0.9930755145228716
+DAG node: 78c1eb7b
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.461978951724618, 'std': 0.009148372224216113, 'n': 10}, 'QGSP_BERT': {'mean': 0.4588779527179909, 'std': 0.012276152383844191, 'n': 10}, 'QGSP_BIC': {'mean': 0.45758295482732636, 'std': 0.007558473543823425, 'n': 10}}
+Update stage
+mean: 0.461978951724618 std: 0.009148372224216113 n: 10
+Cross-valid: True
+Best mean so far: 0.461978951724618
+DAG node: e35a03fd
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7523266383194628, 'std': 0.013169169366777972, 'n': 10}, 'QGSP_BERT': {'mean': 0.7498524407660911, 'std': 0.010904663071032815, 'n': 10}, 'QGSP_BIC': {'mean': 0.7462625627774959, 'std': 0.012097682467564855, 'n': 10}}
+Update stage
+mean: 0.7523266383194628 std: 0.013169169366777972 n: 10
+Cross-valid: True
+Best mean so far: 0.7523266383194628
+DAG node: 15cf9613
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9648747313684931, 'std': 0.006229561668755703, 'n': 10}, 'QGSP_BERT': {'mean': 0.9668989744692688, 'std': 0.004495719348056235, 'n': 10}, 'QGSP_BIC': {'mean': 0.9654617248311478, 'std': 0.006976522934779103, 'n': 10}}
+Update stage
+mean: 0.9648747313684931 std: 0.006229561668755703 n: 10
+Cross-valid: True
+Best mean so far: 0.9648747313684931
+DAG node: 7406fb1d
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7824144071442934, 'std': 0.007738788316550035, 'n': 10}, 'QGSP_BERT': {'mean': 0.7844347103373067, 'std': 0.008386429374056452, 'n': 10}, 'QGSP_BIC': {'mean': 0.7912631884197704, 'std': 0.00699921657155902, 'n': 10}}
+Update stage
+mean: 0.7824144071442934 std: 0.007738788316550035 n: 10
+Cross-valid: True
+Best mean so far: 0.7824144071442934
+DAG node: 1340a25a
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.97089773677719, 'std': 0.006364861852028422, 'n': 10}, 'QGSP_BERT': {'mean': 0.972790228415142, 'std': 0.00386044538220509, 'n': 10}, 'QGSP_BIC': {'mean': 0.9687571506814544, 'std': 0.005847434580702467, 'n': 10}}
+Update stage
+mean: 0.97089773677719 std: 0.006364861852028422 n: 10
+Cross-valid: True
+Best mean so far: 0.97089773677719
+DAG node: 80a6e110
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9926893570167652, 'std': 0.005307810938495424, 'n': 10}, 'QGSP_BERT': {'mean': 0.9975243534200967, 'std': 0.005656454777952396, 'n': 10}, 'QGSP_BIC': {'mean': 0.9960502416228649, 'std': 0.005173307756527484, 'n': 10}}
+Update stage
+mean: 0.9926893570167652 std: 0.005307810938495424 n: 10
+Cross-valid: True
+Best mean so far: 0.9926893570167652
+DAG node: 8bb220c0
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.482431717491837, 'std': 0.014361679796328334, 'n': 10}, 'QGSP_BERT': {'mean': 0.4808077539258792, 'std': 0.017726170393822543, 'n': 10}, 'QGSP_BIC': {'mean': 0.47226930670791634, 'std': 0.0074723114791451686, 'n': 10}}
+Update stage
+mean: 0.482431717491837 std: 0.014361679796328334 n: 10
+Cross-valid: True
+Best mean so far: 0.482431717491837
+DAG node: 860e81ca
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7564666208545481, 'std': 0.009400148129998377, 'n': 10}, 'QGSP_BERT': {'mean': 0.7661887769502604, 'std': 0.009423871620648467, 'n': 10}, 'QGSP_BIC': {'mean': 0.7652557306438619, 'std': 0.012906730248775289, 'n': 10}}
+Update stage
+mean: 0.7564666208545481 std: 0.009400148129998377 n: 10
+Cross-valid: True
+Best mean so far: 0.7564666208545481
+DAG node: 19cfef36
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9674634912416428, 'std': 0.005253236511663134, 'n': 10}, 'QGSP_BERT': {'mean': 0.9668946667857554, 'std': 0.006481462628426769, 'n': 10}, 'QGSP_BIC': {'mean': 0.9688794443355289, 'std': 0.005409193367285209, 'n': 10}}
+Update stage
+mean: 0.9674634912416428 std: 0.005253236511663134 n: 10
+Cross-valid: True
+Best mean so far: 0.9674634912416428
+DAG node: 62ab5816
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7974336656064608, 'std': 0.011189327998678885, 'n': 10}, 'QGSP_BERT': {'mean': 0.8039073299151905, 'std': 0.006426742541314461, 'n': 10}, 'QGSP_BIC': {'mean': 0.806071097510946, 'std': 0.010634107409051295, 'n': 10}}
+Update stage
+mean: 0.7974336656064608 std: 0.011189327998678885 n: 10
+Cross-valid: True
+Best mean so far: 0.7974336656064608
+DAG node: 995bdea3
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9691919004504858, 'std': 0.004597183320534739, 'n': 10}, 'QGSP_BERT': {'mean': 0.9702024867700546, 'std': 0.005634761948743255, 'n': 10}, 'QGSP_BIC': {'mean': 0.97119910256477, 'std': 0.006135218538611792, 'n': 10}}
+Update stage
+mean: 0.9691919004504858 std: 0.004597183320534739 n: 10
+Cross-valid: True
+Best mean so far: 0.9691919004504858
+DAG node: 835efb75
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9973986819229026, 'std': 0.006523439297974734, 'n': 10}, 'QGSP_BERT': {'mean': 0.9939861946635056, 'std': 0.00561284070504235, 'n': 10}, 'QGSP_BIC': {'mean': 0.9969906825557027, 'std': 0.006406731193934158, 'n': 10}}
+Update stage
+mean: 0.9973986819229026 std: 0.006523439297974734 n: 10
+Cross-valid: True
+Best mean so far: 0.9973986819229026
+DAG node: fe11d50b
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.2210551863667946, 'std': 0.008823103737522438, 'n': 10}, 'QGSP_BERT': {'mean': 0.22215955184290054, 'std': 0.014681269280078828, 'n': 10}, 'QGSP_BIC': {'mean': 0.22070139704510733, 'std': 0.012885962240706091, 'n': 10}}
+Update stage
+mean: 0.2210551863667946 std: 0.008823103737522438 n: 10
+Cross-valid: True
+Best mean so far: 0.2210551863667946
+DAG node: 4a5f4918
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.4217996873281466, 'std': 0.008270291636914775, 'n': 10}, 'QGSP_BERT': {'mean': 0.41147533107065304, 'std': 0.011936646865570319, 'n': 10}, 'QGSP_BIC': {'mean': 0.4242654096869285, 'std': 0.013114399899366172, 'n': 10}}
+Update stage
+mean: 0.4217996873281466 std: 0.008270291636914775 n: 10
+Cross-valid: True
+Best mean so far: 0.4217996873281466
+DAG node: 717890a8
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.8660907470772665, 'std': 0.009458016660877533, 'n': 10}, 'QGSP_BERT': {'mean': 0.8649230024474374, 'std': 0.004805184884305224, 'n': 10}, 'QGSP_BIC': {'mean': 0.8683176587901571, 'std': 0.008020700691956923, 'n': 10}}
+Update stage
+mean: 0.8660907470772665 std: 0.009458016660877533 n: 10
+Cross-valid: True
+Best mean so far: 0.8660907470772665
+DAG node: 247e69d8
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.458104580307294, 'std': 0.01406059175638925, 'n': 10}, 'QGSP_BERT': {'mean': 0.4582850907015933, 'std': 0.01253007848449528, 'n': 10}, 'QGSP_BIC': {'mean': 0.4561199631406815, 'std': 0.009596826744216257, 'n': 10}}
+Update stage
+mean: 0.458104580307294 std: 0.01406059175638925 n: 10
+Cross-valid: True
+Best mean so far: 0.458104580307294
+DAG node: 6bdf29bb
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9014442688991432, 'std': 0.005538733712606892, 'n': 10}, 'QGSP_BERT': {'mean': 0.8949472676849591, 'std': 0.01117537673081179, 'n': 10}, 'QGSP_BIC': {'mean': 0.9052611561024484, 'std': 0.011294563973255276, 'n': 10}}
+Update stage
+mean: 0.9014442688991432 std: 0.005538733712606892 n: 10
+Cross-valid: True
+Best mean so far: 0.9014442688991432
+DAG node: b1a0664c
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9845086146175566, 'std': 0.004063782979929421, 'n': 10}, 'QGSP_BERT': {'mean': 0.9904143616835828, 'std': 0.0042451677887164335, 'n': 10}, 'QGSP_BIC': {'mean': 0.9871126593663426, 'std': 0.006253575609439811, 'n': 10}}
+Update stage
+mean: 0.9845086146175566 std: 0.004063782979929421 n: 10
+Cross-valid: True
+Best mean so far: 0.9845086146175566
+DAG node: 7d33e344
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.24667792390640525, 'std': 0.00960939878179582, 'n': 10}, 'QGSP_BERT': {'mean': 0.24126040611293095, 'std': 0.011830075077706143, 'n': 10}, 'QGSP_BIC': {'mean': 0.2464767384732732, 'std': 0.010482863297631942, 'n': 10}}
+Update stage
+mean: 0.24667792390640525 std: 0.00960939878179582 n: 10
+Cross-valid: True
+Best mean so far: 0.24667792390640525
+DAG node: 0431211b
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.4606983278969333, 'std': 0.012747574656868661, 'n': 10}, 'QGSP_BERT': {'mean': 0.4587852655434844, 'std': 0.013660867041037627, 'n': 10}, 'QGSP_BIC': {'mean': 0.4611120275440054, 'std': 0.008345758006406766, 'n': 10}}
+Update stage
+mean: 0.4606983278969333 std: 0.012747574656868661 n: 10
+Cross-valid: True
+Best mean so far: 0.4606983278969333
+DAG node: b0ad3758
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.8950861263476059, 'std': 0.005156486960683274, 'n': 10}, 'QGSP_BERT': {'mean': 0.8935656832936718, 'std': 0.010260930711967858, 'n': 10}, 'QGSP_BIC': {'mean': 0.8994806926472354, 'std': 0.006921243767334702, 'n': 10}}
+Update stage
+mean: 0.8950861263476059 std: 0.005156486960683274 n: 10
+Cross-valid: True
+Best mean so far: 0.8950861263476059
+DAG node: a2dd6ea7
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5060259631357141, 'std': 0.013637553432263324, 'n': 10}, 'QGSP_BERT': {'mean': 0.5022424336356621, 'std': 0.012756694897863935, 'n': 10}, 'QGSP_BIC': {'mean': 0.49447912368752595, 'std': 0.009710213422800974, 'n': 10}}
+Update stage
+mean: 0.5060259631357141 std: 0.013637553432263324 n: 10
+Cross-valid: True
+Best mean so far: 0.5060259631357141
+DAG node: 07107e9d
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9228922801228677, 'std': 0.009320009474632665, 'n': 10}, 'QGSP_BERT': {'mean': 0.9211030254819764, 'std': 0.004616209588627238, 'n': 10}, 'QGSP_BIC': {'mean': 0.9261223453350411, 'std': 0.00754750767727892, 'n': 10}}
+Update stage
+mean: 0.9228922801228677 std: 0.009320009474632665 n: 10
+Cross-valid: True
+Best mean so far: 0.9228922801228677
+DAG node: 5cbef02c
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9956781925616172, 'std': 0.006226643456965257, 'n': 10}, 'QGSP_BERT': {'mean': 0.99447611071372, 'std': 0.0044615555879559034, 'n': 10}, 'QGSP_BIC': {'mean': 0.9919811945121955, 'std': 0.004871017376805999, 'n': 10}}
+Update stage
+mean: 0.9956781925616172 std: 0.006226643456965257 n: 10
+Cross-valid: True
+Best mean so far: 0.9956781925616172
+DAG node: a9b07908
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.2717811703769734, 'std': 0.011587580918590275, 'n': 10}, 'QGSP_BERT': {'mean': 0.27724319202955283, 'std': 0.010477415047456312, 'n': 10}, 'QGSP_BIC': {'mean': 0.27364374532025887, 'std': 0.0078064628063015925, 'n': 10}}
+Update stage
+mean: 0.2717811703769734 std: 0.011587580918590275 n: 10
+Cross-valid: True
+Best mean so far: 0.2717811703769734
+DAG node: 301b263b
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5048063337258857, 'std': 0.011490680981766562, 'n': 10}, 'QGSP_BERT': {'mean': 0.5011473867429539, 'std': 0.013134025601824304, 'n': 10}, 'QGSP_BIC': {'mean': 0.4950118237057504, 'std': 0.012207455435720667, 'n': 10}}
+Update stage
+mean: 0.5048063337258857 std: 0.011490680981766562 n: 10
+Cross-valid: True
+Best mean so far: 0.5048063337258857
+DAG node: 210ec7e5
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9133575043932538, 'std': 0.008892692444292935, 'n': 10}, 'QGSP_BERT': {'mean': 0.9158617196833598, 'std': 0.006176251342902567, 'n': 10}, 'QGSP_BIC': {'mean': 0.9165317195143569, 'std': 0.010017113043767215, 'n': 10}}
+Update stage
+mean: 0.9133575043932538 std: 0.008892692444292935 n: 10
+Cross-valid: True
+Best mean so far: 0.9133575043932538
+DAG node: bae837a5
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5409099009950982, 'std': 0.01216629858389858, 'n': 10}, 'QGSP_BERT': {'mean': 0.5386397658230111, 'std': 0.014354292980203234, 'n': 10}, 'QGSP_BIC': {'mean': 0.5374315116240332, 'std': 0.010633474620652035, 'n': 10}}
+Update stage
+mean: 0.5409099009950982 std: 0.01216629858389858 n: 10
+Cross-valid: True
+Best mean so far: 0.5409099009950982
+DAG node: cf44ca18
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9394123803103674, 'std': 0.006786407505162137, 'n': 10}, 'QGSP_BERT': {'mean': 0.9416265130891157, 'std': 0.00794658744683967, 'n': 10}, 'QGSP_BIC': {'mean': 0.9377185877602733, 'std': 0.007624070052286676, 'n': 10}}
+Update stage
+mean: 0.9394123803103674 std: 0.006786407505162137 n: 10
+Cross-valid: True
+Best mean so far: 0.9394123803103674
+DAG node: 7e8f5553
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9955660392947024, 'std': 0.005090768635876614, 'n': 10}, 'QGSP_BERT': {'mean': 0.9941443492214432, 'std': 0.005686671263511246, 'n': 10}, 'QGSP_BIC': {'mean': 0.9957799868637431, 'std': 0.004160018740195596, 'n': 10}}
+Update stage
+mean: 0.9955660392947024 std: 0.005090768635876614 n: 10
+Cross-valid: True
+Best mean so far: 0.9955660392947024
+DAG node: 8c970655
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.2922967089565413, 'std': 0.014718823054151554, 'n': 10}, 'QGSP_BERT': {'mean': 0.29482339265784996, 'std': 0.0119016787971933, 'n': 10}, 'QGSP_BIC': {'mean': 0.2923226368029441, 'std': 0.008189329833396165, 'n': 10}}
+Update stage
+mean: 0.2922967089565413 std: 0.014718823054151554 n: 10
+Cross-valid: True
+Best mean so far: 0.2922967089565413
+DAG node: fb222a79
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5286836423029584, 'std': 0.01347063004187653, 'n': 10}, 'QGSP_BERT': {'mean': 0.5278428918048563, 'std': 0.01872542762062051, 'n': 10}, 'QGSP_BIC': {'mean': 0.5364979561082963, 'std': 0.014961107991904296, 'n': 10}}
+Update stage
+mean: 0.5286836423029584 std: 0.01347063004187653 n: 10
+Cross-valid: True
+Best mean so far: 0.5286836423029584
+DAG node: cc2543df
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9308609286988683, 'std': 0.006963107481700334, 'n': 10}, 'QGSP_BERT': {'mean': 0.9256214086487589, 'std': 0.007472450949159651, 'n': 10}, 'QGSP_BIC': {'mean': 0.9346105612295018, 'std': 0.007938216212186341, 'n': 10}}
+Update stage
+mean: 0.9308609286988683 std: 0.006963107481700334 n: 10
+Cross-valid: True
+Best mean so far: 0.9308609286988683
+DAG node: 56bcefd7
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5693685739885582, 'std': 0.012481039750389982, 'n': 10}, 'QGSP_BERT': {'mean': 0.5745993259934854, 'std': 0.012083597060981173, 'n': 10}, 'QGSP_BIC': {'mean': 0.5786399280474985, 'std': 0.015177223138678643, 'n': 10}}
+Update stage
+mean: 0.5693685739885582 std: 0.012481039750389982 n: 10
+Cross-valid: True
+Best mean so far: 0.5693685739885582
+DAG node: fba37370
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9517128855371484, 'std': 0.008875709184268598, 'n': 10}, 'QGSP_BERT': {'mean': 0.9487495472906236, 'std': 0.0061269313173932015, 'n': 10}, 'QGSP_BIC': {'mean': 0.9533776546067786, 'std': 0.007926110486545875, 'n': 10}}
+Update stage
+mean: 0.9517128855371484 std: 0.008875709184268598 n: 10
+Cross-valid: True
+Best mean so far: 0.9517128855371484
+DAG node: 6f947749
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9903787281843662, 'std': 0.004808415827267099, 'n': 10}, 'QGSP_BERT': {'mean': 0.9959027764030983, 'std': 0.0069135059330744635, 'n': 10}, 'QGSP_BIC': {'mean': 0.9958883931141772, 'std': 0.005421215513886992, 'n': 10}}
+Update stage
+mean: 0.9903787281843662 std: 0.004808415827267099 n: 10
+Cross-valid: True
+Best mean so far: 0.9903787281843662
+DAG node: ed459604
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.31404947693556207, 'std': 0.009120241169248486, 'n': 10}, 'QGSP_BERT': {'mean': 0.322166468529577, 'std': 0.012093143601352026, 'n': 10}, 'QGSP_BIC': {'mean': 0.3141962899289003, 'std': 0.00828352120079572, 'n': 10}}
+Update stage
+mean: 0.31404947693556207 std: 0.009120241169248486 n: 10
+Cross-valid: True
+Best mean so far: 0.31404947693556207
+DAG node: 0eb390ee
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5693960037190708, 'std': 0.01083414222285622, 'n': 10}, 'QGSP_BERT': {'mean': 0.5691310133084595, 'std': 0.015445506175374893, 'n': 10}, 'QGSP_BIC': {'mean': 0.5700134005120954, 'std': 0.009624101279686636, 'n': 10}}
+Update stage
+mean: 0.5693960037190708 std: 0.01083414222285622 n: 10
+Cross-valid: True
+Best mean so far: 0.5693960037190708
+DAG node: 061b1941
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9413708515507025, 'std': 0.006884358743676345, 'n': 10}, 'QGSP_BERT': {'mean': 0.9392532212669412, 'std': 0.008114786579513164, 'n': 10}, 'QGSP_BIC': {'mean': 0.9465738813520691, 'std': 0.007764537923212622, 'n': 10}}
+Update stage
+mean: 0.9413708515507025 std: 0.006884358743676345 n: 10
+Cross-valid: True
+Best mean so far: 0.9413708515507025
+DAG node: d7c79a6e
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6128417635358069, 'std': 0.008782826124075733, 'n': 10}, 'QGSP_BERT': {'mean': 0.6089873628402399, 'std': 0.010964224126288363, 'n': 10}, 'QGSP_BIC': {'mean': 0.6068877404684555, 'std': 0.016131578518649423, 'n': 10}}
+Update stage
+mean: 0.6128417635358069 std: 0.008782826124075733 n: 10
+Cross-valid: True
+Best mean so far: 0.6128417635358069
+DAG node: bebf5346
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9585304856663909, 'std': 0.006829274491309552, 'n': 10}, 'QGSP_BERT': {'mean': 0.9542064591458652, 'std': 0.005434623714087415, 'n': 10}, 'QGSP_BIC': {'mean': 0.9579062449913149, 'std': 0.00601005699191435, 'n': 10}}
+Update stage
+mean: 0.9585304856663909 std: 0.006829274491309552 n: 10
+Cross-valid: True
+Best mean so far: 0.9585304856663909
+DAG node: 11e10e0c
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9978311777995403, 'std': 0.006636339837034458, 'n': 10}, 'QGSP_BERT': {'mean': 0.9979268426632023, 'std': 0.006226839162991043, 'n': 10}, 'QGSP_BIC': {'mean': 0.9935649644763705, 'std': 0.007358609379256677, 'n': 10}}
+Update stage
+mean: 0.9978311777995403 std: 0.006636339837034458 n: 10
+Cross-valid: True
+Best mean so far: 0.9978311777995403
+DAG node: 6a4bb077
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.33723686955731635, 'std': 0.012072356031230776, 'n': 10}, 'QGSP_BERT': {'mean': 0.3456738750196354, 'std': 0.01054915129821013, 'n': 10}, 'QGSP_BIC': {'mean': 0.33883954339359595, 'std': 0.010168311395612913, 'n': 10}}
+Update stage
+mean: 0.33723686955731635 std: 0.012072356031230776 n: 10
+Cross-valid: True
+Best mean so far: 0.33723686955731635
+DAG node: 944e9e77
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5982032729384302, 'std': 0.010373865765276845, 'n': 10}, 'QGSP_BERT': {'mean': 0.5974481722530351, 'std': 0.011760087979738976, 'n': 10}, 'QGSP_BIC': {'mean': 0.5968368265528761, 'std': 0.011184162833444056, 'n': 10}}
+Update stage
+mean: 0.5982032729384302 std: 0.010373865765276845 n: 10
+Cross-valid: True
+Best mean so far: 0.5982032729384302
+DAG node: b1b1e482
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9519875403177265, 'std': 0.00670971707907692, 'n': 10}, 'QGSP_BERT': {'mean': 0.947198123498237, 'std': 0.0035265864950438917, 'n': 10}, 'QGSP_BIC': {'mean': 0.9486533546625691, 'std': 0.006038865914516239, 'n': 10}}
+Update stage
+mean: 0.9519875403177265 std: 0.00670971707907692 n: 10
+Cross-valid: True
+Best mean so far: 0.9519875403177265
+DAG node: 50a018b6
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6469122493888179, 'std': 0.010394459501763459, 'n': 10}, 'QGSP_BERT': {'mean': 0.6371191621186488, 'std': 0.008451244943655116, 'n': 10}, 'QGSP_BIC': {'mean': 0.6443979078244277, 'std': 0.013813530628417479, 'n': 10}}
+Update stage
+mean: 0.6469122493888179 std: 0.010394459501763459 n: 10
+Cross-valid: True
+Best mean so far: 0.6469122493888179
+DAG node: 0b49c2ca
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9591166769956709, 'std': 0.005936011276646113, 'n': 10}, 'QGSP_BERT': {'mean': 0.9612801012631025, 'std': 0.0055892140255094005, 'n': 10}, 'QGSP_BIC': {'mean': 0.9629591709474663, 'std': 0.0050589730304818024, 'n': 10}}
+Update stage
+mean: 0.9591166769956709 std: 0.005936011276646113 n: 10
+Cross-valid: True
+Best mean so far: 0.9591166769956709
+DAG node: 3b998709
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9974704459502334, 'std': 0.005178741024146518, 'n': 10}, 'QGSP_BERT': {'mean': 0.9946126744547232, 'std': 0.005565912657196026, 'n': 10}, 'QGSP_BIC': {'mean': 0.9976981019280163, 'std': 0.0051991279533810325, 'n': 10}}
+Update stage
+mean: 0.9974704459502334 std: 0.005178741024146518 n: 10
+Cross-valid: True
+Best mean so far: 0.9974704459502334
+DAG node: de64f1c8
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.3614588392163852, 'std': 0.012563291733574483, 'n': 10}, 'QGSP_BERT': {'mean': 0.3593586289612704, 'std': 0.011907471234163414, 'n': 10}, 'QGSP_BIC': {'mean': 0.3598661936700481, 'std': 0.010420907761615226, 'n': 10}}
+Update stage
+mean: 0.3614588392163852 std: 0.012563291733574483 n: 10
+Cross-valid: True
+Best mean so far: 0.3614588392163852
+DAG node: 98ddc4f9
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6209478454914857, 'std': 0.01845030169936213, 'n': 10}, 'QGSP_BERT': {'mean': 0.6286367460319042, 'std': 0.012904914354090906, 'n': 10}, 'QGSP_BIC': {'mean': 0.6291948396391187, 'std': 0.011288768716916512, 'n': 10}}
+Update stage
+mean: 0.6209478454914857 std: 0.01845030169936213 n: 10
+Cross-valid: True
+Best mean so far: 0.6209478454914857
+DAG node: 1ab725da
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.952695104119915, 'std': 0.0073456512561659686, 'n': 10}, 'QGSP_BERT': {'mean': 0.9569261824835129, 'std': 0.0043653171814620065, 'n': 10}, 'QGSP_BIC': {'mean': 0.9541494472845036, 'std': 0.006770687456770494, 'n': 10}}
+Update stage
+mean: 0.952695104119915 std: 0.0073456512561659686 n: 10
+Cross-valid: True
+Best mean so far: 0.952695104119915
+DAG node: f2168b91
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6732095003976577, 'std': 0.009483009244212297, 'n': 10}, 'QGSP_BERT': {'mean': 0.667569043956967, 'std': 0.01290075545525564, 'n': 10}, 'QGSP_BIC': {'mean': 0.6676294258602075, 'std': 0.00968031567693629, 'n': 10}}
+Update stage
+mean: 0.6732095003976577 std: 0.009483009244212297 n: 10
+Cross-valid: True
+Best mean so far: 0.6732095003976577
+DAG node: 8c171f70
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9644361171240867, 'std': 0.008088203814116266, 'n': 10}, 'QGSP_BERT': {'mean': 0.9647236112083929, 'std': 0.007422331684059389, 'n': 10}, 'QGSP_BIC': {'mean': 0.9670878084092136, 'std': 0.00921066119134139, 'n': 10}}
+Update stage
+mean: 0.9644361171240867 std: 0.008088203814116266 n: 10
+Cross-valid: True
+Best mean so far: 0.9644361171240867
+DAG node: 3184d902
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.995873297810772, 'std': 0.00586605160950431, 'n': 10}, 'QGSP_BERT': {'mean': 0.9964453657852885, 'std': 0.005696444764704414, 'n': 10}, 'QGSP_BIC': {'mean': 0.9942759798825079, 'std': 0.005585187623301959, 'n': 10}}
+Update stage
+mean: 0.995873297810772 std: 0.00586605160950431 n: 10
+Cross-valid: True
+Best mean so far: 0.995873297810772
+DAG node: 107e8664
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.37951071602949793, 'std': 0.007123815893880683, 'n': 10}, 'QGSP_BERT': {'mean': 0.38663725877722455, 'std': 0.009357519702343815, 'n': 10}, 'QGSP_BIC': {'mean': 0.37671286269300364, 'std': 0.009884525993083326, 'n': 10}}
+Update stage
+mean: 0.37951071602949793 std: 0.007123815893880683 n: 10
+Cross-valid: True
+Best mean so far: 0.37951071602949793
+DAG node: 75bfcea2
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6635287360648745, 'std': 0.009558549876559456, 'n': 10}, 'QGSP_BERT': {'mean': 0.6525526021145138, 'std': 0.01414377414293546, 'n': 10}, 'QGSP_BIC': {'mean': 0.6603582619415667, 'std': 0.0065425886049198904, 'n': 10}}
+Update stage
+mean: 0.6635287360648745 std: 0.009558549876559456 n: 10
+Cross-valid: True
+Best mean so far: 0.6635287360648745
+DAG node: b64cb8b0
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9604649696248171, 'std': 0.0058045084261924085, 'n': 10}, 'QGSP_BERT': {'mean': 0.9592322697592046, 'std': 0.004387677434845897, 'n': 10}, 'QGSP_BIC': {'mean': 0.9623058386592328, 'std': 0.006460865863070972, 'n': 10}}
+Update stage
+mean: 0.9604649696248171 std: 0.0058045084261924085 n: 10
+Cross-valid: True
+Best mean so far: 0.9604649696248171
+DAG node: a43f0b0c
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7008457828415595, 'std': 0.012835679447717513, 'n': 10}, 'QGSP_BERT': {'mean': 0.6963150627307199, 'std': 0.01113492952016468, 'n': 10}, 'QGSP_BIC': {'mean': 0.7012249446444653, 'std': 0.007190275166641074, 'n': 10}}
+Update stage
+mean: 0.7008457828415595 std: 0.012835679447717513 n: 10
+Cross-valid: True
+Best mean so far: 0.7008457828415595
+DAG node: 8a489c23
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9694524156728166, 'std': 0.00631019926513174, 'n': 10}, 'QGSP_BERT': {'mean': 0.9636135710573764, 'std': 0.0068746524293019345, 'n': 10}, 'QGSP_BIC': {'mean': 0.9685965425866792, 'std': 0.006477905665020157, 'n': 10}}
+Update stage
+mean: 0.9694524156728166 std: 0.00631019926513174 n: 10
+Cross-valid: True
+Best mean so far: 0.9694524156728166
+DAG node: 3ed3a7a1
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9953461924949696, 'std': 0.005874943829675546, 'n': 10}, 'QGSP_BERT': {'mean': 0.9939029246748607, 'std': 0.005368781409326611, 'n': 10}, 'QGSP_BIC': {'mean': 0.9915435710450986, 'std': 0.003793620938664765, 'n': 10}}
+Update stage
+mean: 0.9953461924949696 std: 0.005874943829675546 n: 10
+Cross-valid: True
+Best mean so far: 0.9953461924949696
+DAG node: c0771e0a
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.40287069356775246, 'std': 0.010961959715098375, 'n': 10}, 'QGSP_BERT': {'mean': 0.4051759858756581, 'std': 0.01160670008274691, 'n': 10}, 'QGSP_BIC': {'mean': 0.4082091649412864, 'std': 0.011936315147360035, 'n': 10}}
+Update stage
+mean: 0.40287069356775246 std: 0.010961959715098375 n: 10
+Cross-valid: True
+Best mean so far: 0.40287069356775246
+DAG node: e57d9571
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6804692792691538, 'std': 0.014283095371308787, 'n': 10}, 'QGSP_BERT': {'mean': 0.6771887690724774, 'std': 0.01202401405302668, 'n': 10}, 'QGSP_BIC': {'mean': 0.6824338918225354, 'std': 0.009662018069670425, 'n': 10}}
+Update stage
+mean: 0.6804692792691538 std: 0.014283095371308787 n: 10
+Cross-valid: True
+Best mean so far: 0.6804692792691538
+DAG node: 62adcc93
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9632098721948527, 'std': 0.005638906534651812, 'n': 10}, 'QGSP_BERT': {'mean': 0.9608385351216467, 'std': 0.007528245585883681, 'n': 10}, 'QGSP_BIC': {'mean': 0.9653887328368373, 'std': 0.006882414683840157, 'n': 10}}
+Update stage
+mean: 0.9632098721948527 std: 0.005638906534651812 n: 10
+Cross-valid: True
+Best mean so far: 0.9632098721948527
+DAG node: 7ada46fc
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7242845490184329, 'std': 0.009801655133561071, 'n': 10}, 'QGSP_BERT': {'mean': 0.7178304554275698, 'std': 0.008612174774359884, 'n': 10}, 'QGSP_BIC': {'mean': 0.7239961542762835, 'std': 0.012340680487299938, 'n': 10}}
+Update stage
+mean: 0.7242845490184329 std: 0.009801655133561071 n: 10
+Cross-valid: True
+Best mean so far: 0.7242845490184329
+DAG node: 048b7da9
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9713106737295492, 'std': 0.004761665022403737, 'n': 10}, 'QGSP_BERT': {'mean': 0.9673728791329523, 'std': 0.00865838380649639, 'n': 10}, 'QGSP_BIC': {'mean': 0.9750910430430535, 'std': 0.005748553694404316, 'n': 10}}
+Update stage
+mean: 0.9713106737295492 std: 0.004761665022403737 n: 10
+Cross-valid: True
+Best mean so far: 0.9713106737295492
+DAG node: 3a30b769
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9926486562989585, 'std': 0.005020144931591652, 'n': 10}, 'QGSP_BERT': {'mean': 0.9936511234899724, 'std': 0.006231335925156586, 'n': 10}, 'QGSP_BIC': {'mean': 0.9967463684780566, 'std': 0.006496443733369081, 'n': 10}}
+Update stage
+mean: 0.9926486562989585 std: 0.005020144931591652 n: 10
+Cross-valid: True
+Best mean so far: 0.9926486562989585
+DAG node: b39bee53
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.4184324514377614, 'std': 0.016624049634169816, 'n': 10}, 'QGSP_BERT': {'mean': 0.42271900684012464, 'std': 0.01148598811163152, 'n': 10}, 'QGSP_BIC': {'mean': 0.42978418953136216, 'std': 0.012688918510299773, 'n': 10}}
+Update stage
+mean: 0.4184324514377614 std: 0.016624049634169816 n: 10
+Cross-valid: True
+Best mean so far: 0.4184324514377614
+DAG node: 24373840
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7052265394858438, 'std': 0.018337056046247222, 'n': 10}, 'QGSP_BERT': {'mean': 0.7012802616410654, 'std': 0.014530602871016485, 'n': 10}, 'QGSP_BIC': {'mean': 0.7027829549750682, 'std': 0.012712964627283675, 'n': 10}}
+Update stage
+mean: 0.7052265394858438 std: 0.018337056046247222 n: 10
+Cross-valid: True
+Best mean so far: 0.7052265394858438
+DAG node: e78dca30
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9695420808263954, 'std': 0.005069338357335199, 'n': 10}, 'QGSP_BERT': {'mean': 0.9630590761443443, 'std': 0.006697371178514559, 'n': 10}, 'QGSP_BIC': {'mean': 0.967729854251895, 'std': 0.007031616276008766, 'n': 10}}
+Update stage
+mean: 0.9695420808263954 std: 0.005069338357335199 n: 10
+Cross-valid: True
+Best mean so far: 0.9695420808263954
+DAG node: b7786fbc
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7558929931242946, 'std': 0.007848480970424999, 'n': 10}, 'QGSP_BERT': {'mean': 0.7448602381917193, 'std': 0.008745696235026041, 'n': 10}, 'QGSP_BIC': {'mean': 0.742300400087631, 'std': 0.011434505098747194, 'n': 10}}
+Update stage
+mean: 0.7558929931242946 std: 0.007848480970424999 n: 10
+Cross-valid: True
+Best mean so far: 0.7558929931242946
+DAG node: 2a2765d2
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9695380142773358, 'std': 0.006480196344841345, 'n': 10}, 'QGSP_BERT': {'mean': 0.971233230446402, 'std': 0.006702083617009323, 'n': 10}, 'QGSP_BIC': {'mean': 0.9739315900435029, 'std': 0.0059710681202345805, 'n': 10}}
+Update stage
+mean: 0.9695380142773358 std: 0.006480196344841345 n: 10
+Cross-valid: True
+Best mean so far: 0.9695380142773358
+DAG node: 9ba603af
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.994767977538773, 'std': 0.006172492130344891, 'n': 10}, 'QGSP_BERT': {'mean': 0.9945527333914381, 'std': 0.007165577398596733, 'n': 10}, 'QGSP_BIC': {'mean': 0.9969216442260442, 'std': 0.005312028962312378, 'n': 10}}
+Update stage
+mean: 0.994767977538773 std: 0.006172492130344891 n: 10
+Cross-valid: True
+Best mean so far: 0.994767977538773
+DAG node: 04a0238e
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.4419067691294896, 'std': 0.006307918878547892, 'n': 10}, 'QGSP_BERT': {'mean': 0.44352533083709467, 'std': 0.014015022155680124, 'n': 10}, 'QGSP_BIC': {'mean': 0.4497566735596844, 'std': 0.009616987221769225, 'n': 10}}
+Update stage
+mean: 0.4419067691294896 std: 0.006307918878547892 n: 10
+Cross-valid: True
+Best mean so far: 0.4419067691294896
+DAG node: 344b1635
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7270495458874493, 'std': 0.006628894540119544, 'n': 10}, 'QGSP_BERT': {'mean': 0.7232695699404734, 'std': 0.010498735735906655, 'n': 10}, 'QGSP_BIC': {'mean': 0.7207495781458975, 'std': 0.013966591026725709, 'n': 10}}
+Update stage
+mean: 0.7270495458874493 std: 0.006628894540119544 n: 10
+Cross-valid: True
+Best mean so far: 0.7270495458874493
+DAG node: fc0049ed
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.96499624216702, 'std': 0.005545392794227499, 'n': 10}, 'QGSP_BERT': {'mean': 0.964950539070404, 'std': 0.007577841694216744, 'n': 10}, 'QGSP_BIC': {'mean': 0.9685608224233198, 'std': 0.005406040303386248, 'n': 10}}
+Update stage
+mean: 0.96499624216702 std: 0.005545392794227499 n: 10
+Cross-valid: True
+Best mean so far: 0.96499624216702
+DAG node: 2ea697cf
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7718135839917151, 'std': 0.01184458560354226, 'n': 10}, 'QGSP_BERT': {'mean': 0.7639797831774023, 'std': 0.009201558902804568, 'n': 10}, 'QGSP_BIC': {'mean': 0.7637158306928841, 'std': 0.010769622408314534, 'n': 10}}
+Update stage
+mean: 0.7718135839917151 std: 0.01184458560354226 n: 10
+Cross-valid: True
+Best mean so far: 0.7718135839917151
+DAG node: 47c7d93d
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9711806904746723, 'std': 0.0038028021957324442, 'n': 10}, 'QGSP_BERT': {'mean': 0.9699516549742363, 'std': 0.007059139652566049, 'n': 10}, 'QGSP_BIC': {'mean': 0.9706012442257999, 'std': 0.005554938966507233, 'n': 10}}
+Update stage
+mean: 0.9711806904746723 std: 0.0038028021957324442 n: 10
+Cross-valid: True
+Best mean so far: 0.9711806904746723
+DAG node: 415458d1
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9964397842886606, 'std': 0.00501865591607528, 'n': 10}, 'QGSP_BERT': {'mean': 0.9974898758849481, 'std': 0.006039977696953315, 'n': 10}, 'QGSP_BIC': {'mean': 0.9924184873723079, 'std': 0.003532732251360306, 'n': 10}}
+Update stage
+mean: 0.9964397842886606 std: 0.00501865591607528 n: 10
+Cross-valid: True
+Best mean so far: 0.9964397842886606
+DAG node: 78c1eb7b
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.4587532455601438, 'std': 0.006018771493699026, 'n': 10}, 'QGSP_BERT': {'mean': 0.4580858450602291, 'std': 0.01611889913048791, 'n': 10}, 'QGSP_BIC': {'mean': 0.45969403920289204, 'std': 0.008730986366176318, 'n': 10}}
+Update stage
+mean: 0.4587532455601438 std: 0.006018771493699026 n: 10
+Cross-valid: True
+Best mean so far: 0.4587532455601438
+DAG node: e35a03fd
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7516788955362262, 'std': 0.010487957430202048, 'n': 10}, 'QGSP_BERT': {'mean': 0.7520313322141081, 'std': 0.009967985839410512, 'n': 10}, 'QGSP_BIC': {'mean': 0.7471621251992145, 'std': 0.01169960768444517, 'n': 10}}
+Update stage
+mean: 0.7516788955362262 std: 0.010487957430202048 n: 10
+Cross-valid: True
+Best mean so far: 0.7516788955362262
+DAG node: 15cf9613
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.967733982574198, 'std': 0.005551831233210325, 'n': 10}, 'QGSP_BERT': {'mean': 0.9678799187060803, 'std': 0.00556317325867016, 'n': 10}, 'QGSP_BIC': {'mean': 0.9636526235237868, 'std': 0.006256806962755052, 'n': 10}}
+Update stage
+mean: 0.967733982574198 std: 0.005551831233210325 n: 10
+Cross-valid: True
+Best mean so far: 0.967733982574198
+DAG node: 7406fb1d
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7831551339499933, 'std': 0.009275464473012864, 'n': 10}, 'QGSP_BERT': {'mean': 0.7825329047287708, 'std': 0.009980976008907246, 'n': 10}, 'QGSP_BIC': {'mean': 0.7892523485463305, 'std': 0.010065785379889652, 'n': 10}}
+Update stage
+mean: 0.7831551339499933 std: 0.009275464473012864 n: 10
+Cross-valid: True
+Best mean so far: 0.7831551339499933
+DAG node: 1340a25a
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9717781792176254, 'std': 0.007503273053658317, 'n': 10}, 'QGSP_BERT': {'mean': 0.9712545675790464, 'std': 0.004384216184663629, 'n': 10}, 'QGSP_BIC': {'mean': 0.970527562403819, 'std': 0.005575374956853974, 'n': 10}}
+Update stage
+mean: 0.9717781792176254 std: 0.007503273053658317 n: 10
+Cross-valid: True
+Best mean so far: 0.9717781792176254
+DAG node: 80a6e110
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9999069257620155, 'std': 0.005222010189233782, 'n': 10}, 'QGSP_BERT': {'mean': 0.9951197841621614, 'std': 0.006240369191198338, 'n': 10}, 'QGSP_BIC': {'mean': 0.9962947573470468, 'std': 0.005049215092776444, 'n': 10}}
+Update stage
+mean: 0.9999069257620155 std: 0.005222010189233782 n: 10
+Cross-valid: True
+Best mean so far: 0.9999069257620155
+DAG node: 8bb220c0
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.4821388853859102, 'std': 0.01584333581218435, 'n': 10}, 'QGSP_BERT': {'mean': 0.474918828253527, 'std': 0.011227672119152462, 'n': 10}, 'QGSP_BIC': {'mean': 0.47619751297024093, 'std': 0.007868032059414129, 'n': 10}}
+Update stage
+mean: 0.4821388853859102 std: 0.01584333581218435 n: 10
+Cross-valid: True
+Best mean so far: 0.4821388853859102
+DAG node: 860e81ca
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7560927918007907, 'std': 0.011680186029449589, 'n': 10}, 'QGSP_BERT': {'mean': 0.7649953470638211, 'std': 0.006835363258934355, 'n': 10}, 'QGSP_BIC': {'mean': 0.7675718724528927, 'std': 0.011062966439572715, 'n': 10}}
+Update stage
+mean: 0.7560927918007907 std: 0.011680186029449589 n: 10
+Cross-valid: True
+Best mean so far: 0.7560927918007907
+DAG node: 19cfef36
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9694446207749523, 'std': 0.005607747156900931, 'n': 10}, 'QGSP_BERT': {'mean': 0.967181068377917, 'std': 0.00556203339081563, 'n': 10}, 'QGSP_BIC': {'mean': 0.9689335639700405, 'std': 0.006541748524751574, 'n': 10}}
+Update stage
+mean: 0.9694446207749523 std: 0.005607747156900931 n: 10
+Cross-valid: True
+Best mean so far: 0.9694446207749523
+DAG node: 62ab5816
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7960712092003794, 'std': 0.00955484450301282, 'n': 10}, 'QGSP_BERT': {'mean': 0.8030722927302893, 'std': 0.007755909648984328, 'n': 10}, 'QGSP_BIC': {'mean': 0.8020246716173732, 'std': 0.006340585250266782, 'n': 10}}
+Update stage
+mean: 0.7960712092003794 std: 0.00955484450301282 n: 10
+Cross-valid: True
+Best mean so far: 0.7960712092003794
+DAG node: 995bdea3
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.974124800873583, 'std': 0.006539527007386107, 'n': 10}, 'QGSP_BERT': {'mean': 0.969941452808104, 'std': 0.006032643622586489, 'n': 10}, 'QGSP_BIC': {'mean': 0.9664811603342635, 'std': 0.0037141157357786993, 'n': 10}}
+Update stage
+mean: 0.974124800873583 std: 0.006539527007386107 n: 10
+Cross-valid: True
+Best mean so far: 0.974124800873583
+DAG node: 835efb75
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9955501331023706, 'std': 0.0048413863355411, 'n': 10}, 'QGSP_BERT': {'mean': 0.9943142967284695, 'std': 0.0046796907373541615, 'n': 10}, 'QGSP_BIC': {'mean': 0.9928451781457799, 'std': 0.005324282040010169, 'n': 10}}
+Update stage
+mean: 0.9955501331023706 std: 0.0048413863355411 n: 10
+Cross-valid: True
+Best mean so far: 0.9955501331023706
+DAG node: fe11d50b
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.21986972727129817, 'std': 0.009291173657501208, 'n': 10}, 'QGSP_BERT': {'mean': 0.22361887245207832, 'std': 0.012227437810010082, 'n': 10}, 'QGSP_BIC': {'mean': 0.22287713043606505, 'std': 0.010757996341630717, 'n': 10}}
+Update stage
+mean: 0.21986972727129817 std: 0.009291173657501208 n: 10
+Cross-valid: True
+Best mean so far: 0.21986972727129817
+DAG node: 4a5f4918
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.41609195579443636, 'std': 0.010396250987836836, 'n': 10}, 'QGSP_BERT': {'mean': 0.4109827757746715, 'std': 0.010946983614027421, 'n': 10}, 'QGSP_BIC': {'mean': 0.4205002153193643, 'std': 0.013846810802610944, 'n': 10}}
+Update stage
+mean: 0.41609195579443636 std: 0.010396250987836836 n: 10
+Cross-valid: True
+Best mean so far: 0.41609195579443636
+DAG node: 717890a8
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.8697474235608939, 'std': 0.008672164889942277, 'n': 10}, 'QGSP_BERT': {'mean': 0.8697337015498663, 'std': 0.006368340449111989, 'n': 10}, 'QGSP_BIC': {'mean': 0.8692374758331024, 'std': 0.008231723247366735, 'n': 10}}
+Update stage
+mean: 0.8697474235608939 std: 0.008672164889942277 n: 10
+Cross-valid: True
+Best mean so far: 0.8697474235608939
+DAG node: 247e69d8
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.45471298443340646, 'std': 0.013334926129239123, 'n': 10}, 'QGSP_BERT': {'mean': 0.45630813279066607, 'std': 0.016469650628291158, 'n': 10}, 'QGSP_BIC': {'mean': 0.4604375534180535, 'std': 0.009915345176245084, 'n': 10}}
+Update stage
+mean: 0.45471298443340646 std: 0.013334926129239123 n: 10
+Cross-valid: True
+Best mean so far: 0.45471298443340646
+DAG node: 6bdf29bb
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9024806890651925, 'std': 0.008652770287222078, 'n': 10}, 'QGSP_BERT': {'mean': 0.8985160717053032, 'std': 0.009322061075253973, 'n': 10}, 'QGSP_BIC': {'mean': 0.9014818747004, 'std': 0.009271096950547758, 'n': 10}}
+Update stage
+mean: 0.9024806890651925 std: 0.008652770287222078 n: 10
+Cross-valid: True
+Best mean so far: 0.9024806890651925
+DAG node: b1a0664c
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9906801688006069, 'std': 0.006331590861565563, 'n': 10}, 'QGSP_BERT': {'mean': 0.9898499675733307, 'std': 0.003667139868988283, 'n': 10}, 'QGSP_BIC': {'mean': 0.9883915735392655, 'std': 0.003976986422977634, 'n': 10}}
+Update stage
+mean: 0.9906801688006069 std: 0.006331590861565563 n: 10
+Cross-valid: True
+Best mean so far: 0.9906801688006069
+DAG node: 7d33e344
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.2472620291177401, 'std': 0.011209993396279474, 'n': 10}, 'QGSP_BERT': {'mean': 0.24229491227926708, 'std': 0.011119869600467213, 'n': 10}, 'QGSP_BIC': {'mean': 0.24979223244968912, 'std': 0.008287832846074874, 'n': 10}}
+Update stage
+mean: 0.2472620291177401 std: 0.011209993396279474 n: 10
+Cross-valid: True
+Best mean so far: 0.2472620291177401
+DAG node: 0431211b
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.462302135246991, 'std': 0.009224205314530354, 'n': 10}, 'QGSP_BERT': {'mean': 0.45507187078087313, 'std': 0.009873865558144427, 'n': 10}, 'QGSP_BIC': {'mean': 0.46108029872509304, 'std': 0.013815898684710285, 'n': 10}}
+Update stage
+mean: 0.462302135246991 std: 0.009224205314530354 n: 10
+Cross-valid: True
+Best mean so far: 0.462302135246991
+DAG node: b0ad3758
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.8953040598894175, 'std': 0.0074995946880483865, 'n': 10}, 'QGSP_BERT': {'mean': 0.8926034598478931, 'std': 0.00892057501532215, 'n': 10}, 'QGSP_BIC': {'mean': 0.9013159778343292, 'std': 0.00963800782472831, 'n': 10}}
+Update stage
+mean: 0.8953040598894175 std: 0.0074995946880483865 n: 10
+Cross-valid: True
+Best mean so far: 0.8953040598894175
+DAG node: a2dd6ea7
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5043512856232957, 'std': 0.010902320599482497, 'n': 10}, 'QGSP_BERT': {'mean': 0.5007794557930729, 'std': 0.013171871090319257, 'n': 10}, 'QGSP_BIC': {'mean': 0.49226082373021757, 'std': 0.009497485273745655, 'n': 10}}
+Update stage
+mean: 0.5043512856232957 std: 0.010902320599482497 n: 10
+Cross-valid: True
+Best mean so far: 0.5043512856232957
+DAG node: 07107e9d
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9245463195113949, 'std': 0.005704327876004082, 'n': 10}, 'QGSP_BERT': {'mean': 0.9242313211443672, 'std': 0.006927851910604603, 'n': 10}, 'QGSP_BIC': {'mean': 0.926241997888323, 'std': 0.007747915405579737, 'n': 10}}
+Update stage
+mean: 0.9245463195113949 std: 0.005704327876004082 n: 10
+Cross-valid: True
+Best mean so far: 0.9245463195113949
+DAG node: 5cbef02c
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9932227524562975, 'std': 0.005901964270141626, 'n': 10}, 'QGSP_BERT': {'mean': 0.9942687009467382, 'std': 0.004816670496371993, 'n': 10}, 'QGSP_BIC': {'mean': 0.9937456579851528, 'std': 0.007166152387886184, 'n': 10}}
+Update stage
+mean: 0.9932227524562975 std: 0.005901964270141626 n: 10
+Cross-valid: True
+Best mean so far: 0.9932227524562975
+DAG node: a9b07908
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.2698251205789877, 'std': 0.0105504834856267, 'n': 10}, 'QGSP_BERT': {'mean': 0.2795436652114212, 'std': 0.010991122608624958, 'n': 10}, 'QGSP_BIC': {'mean': 0.27541089272419, 'std': 0.009905972402260325, 'n': 10}}
+Update stage
+mean: 0.2698251205789877 std: 0.0105504834856267 n: 10
+Cross-valid: True
+Best mean so far: 0.2698251205789877
+DAG node: 301b263b
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5027712060827402, 'std': 0.009525309874919594, 'n': 10}, 'QGSP_BERT': {'mean': 0.5004737070876877, 'std': 0.014557832090742953, 'n': 10}, 'QGSP_BIC': {'mean': 0.4954460176892673, 'std': 0.013057925592395684, 'n': 10}}
+Update stage
+mean: 0.5027712060827402 std: 0.009525309874919594 n: 10
+Cross-valid: True
+Best mean so far: 0.5027712060827402
+DAG node: 210ec7e5
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9148280048650331, 'std': 0.005578329227883919, 'n': 10}, 'QGSP_BERT': {'mean': 0.9154912992483363, 'std': 0.007402998573167317, 'n': 10}, 'QGSP_BIC': {'mean': 0.9188632828747207, 'std': 0.009131051353624098, 'n': 10}}
+Update stage
+mean: 0.9148280048650331 std: 0.005578329227883919 n: 10
+Cross-valid: True
+Best mean so far: 0.9148280048650331
+DAG node: bae837a5
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5421874344313337, 'std': 0.012872251081865902, 'n': 10}, 'QGSP_BERT': {'mean': 0.5382024018789374, 'std': 0.015230392236831713, 'n': 10}, 'QGSP_BIC': {'mean': 0.5381034682201598, 'std': 0.009739278856485385, 'n': 10}}
+Update stage
+mean: 0.5421874344313337 std: 0.012872251081865902 n: 10
+Cross-valid: True
+Best mean so far: 0.5421874344313337
+DAG node: cf44ca18
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9407298711840646, 'std': 0.005314701611230422, 'n': 10}, 'QGSP_BERT': {'mean': 0.9375710038464732, 'std': 0.007184177065895626, 'n': 10}, 'QGSP_BIC': {'mean': 0.9398989249662748, 'std': 0.006103251534202868, 'n': 10}}
+Update stage
+mean: 0.9407298711840646 std: 0.005314701611230422 n: 10
+Cross-valid: True
+Best mean so far: 0.9407298711840646
+DAG node: 7e8f5553
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9961127406522146, 'std': 0.007010913294043324, 'n': 10}, 'QGSP_BERT': {'mean': 0.9960619795750334, 'std': 0.005655942619084645, 'n': 10}, 'QGSP_BIC': {'mean': 0.9934823835625112, 'std': 0.0065105422050685795, 'n': 10}}
+Update stage
+mean: 0.9961127406522146 std: 0.007010913294043324 n: 10
+Cross-valid: True
+Best mean so far: 0.9961127406522146
+DAG node: 8c970655
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.2923631341121224, 'std': 0.014685172533461898, 'n': 10}, 'QGSP_BERT': {'mean': 0.29251326335799555, 'std': 0.011426828879818324, 'n': 10}, 'QGSP_BIC': {'mean': 0.2895154573720441, 'std': 0.005714223466072531, 'n': 10}}
+Update stage
+mean: 0.2923631341121224 std: 0.014685172533461898 n: 10
+Cross-valid: True
+Best mean so far: 0.2923631341121224
+DAG node: fb222a79
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5303497661851273, 'std': 0.012385738986262156, 'n': 10}, 'QGSP_BERT': {'mean': 0.5289025531543816, 'std': 0.01663516284491248, 'n': 10}, 'QGSP_BIC': {'mean': 0.5349434747408778, 'std': 0.011210435207434125, 'n': 10}}
+Update stage
+mean: 0.5303497661851273 std: 0.012385738986262156 n: 10
+Cross-valid: True
+Best mean so far: 0.5303497661851273
+DAG node: cc2543df
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9286149113483153, 'std': 0.006963238309728801, 'n': 10}, 'QGSP_BERT': {'mean': 0.9307748657246571, 'std': 0.007676363603690017, 'n': 10}, 'QGSP_BIC': {'mean': 0.933544403380407, 'std': 0.006842673599820672, 'n': 10}}
+Update stage
+mean: 0.9286149113483153 std: 0.006963238309728801 n: 10
+Cross-valid: True
+Best mean so far: 0.9286149113483153
+DAG node: 56bcefd7
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5689872550937131, 'std': 0.013689739656281336, 'n': 10}, 'QGSP_BERT': {'mean': 0.5778932352950593, 'std': 0.00962236863895828, 'n': 10}, 'QGSP_BIC': {'mean': 0.5759069391144795, 'std': 0.014012855627963831, 'n': 10}}
+Update stage
+mean: 0.5689872550937131 std: 0.013689739656281336 n: 10
+Cross-valid: True
+Best mean so far: 0.5689872550937131
+DAG node: fba37370
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9516473170515951, 'std': 0.008030845062704977, 'n': 10}, 'QGSP_BERT': {'mean': 0.9491462579617675, 'std': 0.005786569948265607, 'n': 10}, 'QGSP_BIC': {'mean': 0.9529343560785545, 'std': 0.007977876861981894, 'n': 10}}
+Update stage
+mean: 0.9516473170515951 std: 0.008030845062704977 n: 10
+Cross-valid: True
+Best mean so far: 0.9516473170515951
+DAG node: 6f947749
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9956372584959015, 'std': 0.007320782523924669, 'n': 10}, 'QGSP_BERT': {'mean': 0.9949284063379897, 'std': 0.003859324941098555, 'n': 10}, 'QGSP_BIC': {'mean': 0.9975203568446611, 'std': 0.0040787585433190296, 'n': 10}}
+Update stage
+mean: 0.9956372584959015 std: 0.007320782523924669 n: 10
+Cross-valid: True
+Best mean so far: 0.9956372584959015
+DAG node: ed459604
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.3179279786828789, 'std': 0.005582186185585157, 'n': 10}, 'QGSP_BERT': {'mean': 0.3202557456709446, 'std': 0.0141645951612055, 'n': 10}, 'QGSP_BIC': {'mean': 0.31083026349088827, 'std': 0.010577225093083316, 'n': 10}}
+Update stage
+mean: 0.3179279786828789 std: 0.005582186185585157 n: 10
+Cross-valid: True
+Best mean so far: 0.3179279786828789
+DAG node: 0eb390ee
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.5703196604676919, 'std': 0.010100526577254153, 'n': 10}, 'QGSP_BERT': {'mean': 0.565772731191397, 'std': 0.011136076180003568, 'n': 10}, 'QGSP_BIC': {'mean': 0.5717000999418002, 'std': 0.007660530089017871, 'n': 10}}
+Update stage
+mean: 0.5703196604676919 std: 0.010100526577254153 n: 10
+Cross-valid: True
+Best mean so far: 0.5703196604676919
+DAG node: 061b1941
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.940549376946157, 'std': 0.00556525396382043, 'n': 10}, 'QGSP_BERT': {'mean': 0.9453047053432225, 'std': 0.005789602274653384, 'n': 10}, 'QGSP_BIC': {'mean': 0.9470538359069931, 'std': 0.00671820982130954, 'n': 10}}
+Update stage
+mean: 0.940549376946157 std: 0.00556525396382043 n: 10
+Cross-valid: True
+Best mean so far: 0.940549376946157
+DAG node: d7c79a6e
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6143587229674604, 'std': 0.011730889376944671, 'n': 10}, 'QGSP_BERT': {'mean': 0.6106703894006187, 'std': 0.013838546556721315, 'n': 10}, 'QGSP_BIC': {'mean': 0.609044720905288, 'std': 0.016111281630440805, 'n': 10}}
+Update stage
+mean: 0.6143587229674604 std: 0.011730889376944671 n: 10
+Cross-valid: True
+Best mean so far: 0.6143587229674604
+DAG node: bebf5346
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.952979867129808, 'std': 0.007309831308816817, 'n': 10}, 'QGSP_BERT': {'mean': 0.9537756982532899, 'std': 0.006088416646850901, 'n': 10}, 'QGSP_BIC': {'mean': 0.9575222337774749, 'std': 0.005154086423714504, 'n': 10}}
+Update stage
+mean: 0.952979867129808 std: 0.007309831308816817 n: 10
+Cross-valid: True
+Best mean so far: 0.952979867129808
+DAG node: 11e10e0c
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9954070879359307, 'std': 0.005682219015657837, 'n': 10}, 'QGSP_BERT': {'mean': 0.9970805673692968, 'std': 0.004670792830114451, 'n': 10}, 'QGSP_BIC': {'mean': 0.9950015125689033, 'std': 0.005781965059920237, 'n': 10}}
+Update stage
+mean: 0.9954070879359307 std: 0.005682219015657837 n: 10
+Cross-valid: True
+Best mean so far: 0.9954070879359307
+DAG node: 6a4bb077
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.3353937565205479, 'std': 0.010737347253214506, 'n': 10}, 'QGSP_BERT': {'mean': 0.34858804075531447, 'std': 0.009733300719091465, 'n': 10}, 'QGSP_BIC': {'mean': 0.33938562528930644, 'std': 0.009751864771824558, 'n': 10}}
+Update stage
+mean: 0.3353937565205479 std: 0.010737347253214506 n: 10
+Cross-valid: True
+Best mean so far: 0.3353937565205479
+DAG node: 944e9e77
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6021664831397455, 'std': 0.01443550596410045, 'n': 10}, 'QGSP_BERT': {'mean': 0.6006443054799946, 'std': 0.012254482371367873, 'n': 10}, 'QGSP_BIC': {'mean': 0.6018581077097747, 'std': 0.00982194137795454, 'n': 10}}
+Update stage
+mean: 0.6021664831397455 std: 0.01443550596410045 n: 10
+Cross-valid: True
+Best mean so far: 0.6021664831397455
+DAG node: b1b1e482
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9492626334538732, 'std': 0.005472581531501712, 'n': 10}, 'QGSP_BERT': {'mean': 0.9517127755724477, 'std': 0.007905566565511741, 'n': 10}, 'QGSP_BIC': {'mean': 0.9487050988402744, 'std': 0.0062710457517063094, 'n': 10}}
+Update stage
+mean: 0.9492626334538732 std: 0.005472581531501712 n: 10
+Cross-valid: True
+Best mean so far: 0.9492626334538732
+DAG node: 50a018b6
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6467978773412782, 'std': 0.008245452186168662, 'n': 10}, 'QGSP_BERT': {'mean': 0.6355911389106812, 'std': 0.008020002476297094, 'n': 10}, 'QGSP_BIC': {'mean': 0.6427604980416284, 'std': 0.017090586643302354, 'n': 10}}
+Update stage
+mean: 0.6467978773412782 std: 0.008245452186168662 n: 10
+Cross-valid: True
+Best mean so far: 0.6467978773412782
+DAG node: 0b49c2ca
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9637913534531372, 'std': 0.00446353862401107, 'n': 10}, 'QGSP_BERT': {'mean': 0.960302691760508, 'std': 0.0075583466225895525, 'n': 10}, 'QGSP_BIC': {'mean': 0.9655626485814167, 'std': 0.00598232611879048, 'n': 10}}
+Update stage
+mean: 0.9637913534531372 std: 0.00446353862401107 n: 10
+Cross-valid: True
+Best mean so far: 0.9637913534531372
+DAG node: 3b998709
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9948603146980227, 'std': 0.004540110692649984, 'n': 10}, 'QGSP_BERT': {'mean': 0.9951910999724302, 'std': 0.005792921712099213, 'n': 10}, 'QGSP_BIC': {'mean': 0.9982571900084455, 'std': 0.004835431830837366, 'n': 10}}
+Update stage
+mean: 0.9948603146980227 std: 0.004540110692649984 n: 10
+Cross-valid: True
+Best mean so far: 0.9948603146980227
+DAG node: de64f1c8
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.35614275402413653, 'std': 0.009615238946062386, 'n': 10}, 'QGSP_BERT': {'mean': 0.3608331577209231, 'std': 0.012467683661888482, 'n': 10}, 'QGSP_BIC': {'mean': 0.36072052272758437, 'std': 0.010430532350203681, 'n': 10}}
+Update stage
+mean: 0.35614275402413653 std: 0.009615238946062386 n: 10
+Cross-valid: True
+Best mean so far: 0.35614275402413653
+DAG node: 98ddc4f9
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6224278783675025, 'std': 0.018123354578176962, 'n': 10}, 'QGSP_BERT': {'mean': 0.6244536699241714, 'std': 0.013647194697049642, 'n': 10}, 'QGSP_BIC': {'mean': 0.6303614976251743, 'std': 0.00885418925490091, 'n': 10}}
+Update stage
+mean: 0.6224278783675025 std: 0.018123354578176962 n: 10
+Cross-valid: True
+Best mean so far: 0.6224278783675025
+DAG node: 1ab725da
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9596413604315167, 'std': 0.004579914881442391, 'n': 10}, 'QGSP_BERT': {'mean': 0.9546241895536998, 'std': 0.006812802878201048, 'n': 10}, 'QGSP_BIC': {'mean': 0.959684712003677, 'std': 0.006604939717503163, 'n': 10}}
+Update stage
+mean: 0.9596413604315167 std: 0.004579914881442391 n: 10
+Cross-valid: True
+Best mean so far: 0.9596413604315167
+DAG node: f2168b91
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6731508446371754, 'std': 0.013794146098837052, 'n': 10}, 'QGSP_BERT': {'mean': 0.6686711549933644, 'std': 0.011480610246121058, 'n': 10}, 'QGSP_BIC': {'mean': 0.6683650882441083, 'std': 0.008696494304670725, 'n': 10}}
+Update stage
+mean: 0.6731508446371754 std: 0.013794146098837052 n: 10
+Cross-valid: True
+Best mean so far: 0.6731508446371754
+DAG node: 8c171f70
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9661312355004649, 'std': 0.007640081816668986, 'n': 10}, 'QGSP_BERT': {'mean': 0.9654505156907133, 'std': 0.0043074132563878575, 'n': 10}, 'QGSP_BIC': {'mean': 0.966574176988033, 'std': 0.006261827855772176, 'n': 10}}
+Update stage
+mean: 0.9661312355004649 std: 0.007640081816668986 n: 10
+Cross-valid: True
+Best mean so far: 0.9661312355004649
+DAG node: 3184d902
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9947582796104696, 'std': 0.005179522205424791, 'n': 10}, 'QGSP_BERT': {'mean': 0.9989944029969463, 'std': 0.004875855065969559, 'n': 10}, 'QGSP_BIC': {'mean': 0.9929358980303196, 'std': 0.0060671016095424244, 'n': 10}}
+Update stage
+mean: 0.9947582796104696 std: 0.005179522205424791 n: 10
+Cross-valid: True
+Best mean so far: 0.9947582796104696
+DAG node: 107e8664
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.3807885983449821, 'std': 0.007823353507090635, 'n': 10}, 'QGSP_BERT': {'mean': 0.38699157040941834, 'std': 0.009256196000434948, 'n': 10}, 'QGSP_BIC': {'mean': 0.3777769027475514, 'std': 0.012538019605340307, 'n': 10}}
+Update stage
+mean: 0.3807885983449821 std: 0.007823353507090635 n: 10
+Cross-valid: True
+Best mean so far: 0.3807885983449821
+DAG node: 75bfcea2
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6631917062575553, 'std': 0.011471888039108105, 'n': 10}, 'QGSP_BERT': {'mean': 0.6485805637906623, 'std': 0.010985316158238688, 'n': 10}, 'QGSP_BIC': {'mean': 0.6612301518006696, 'std': 0.0075999452939201515, 'n': 10}}
+Update stage
+mean: 0.6631917062575553 std: 0.011471888039108105 n: 10
+Cross-valid: True
+Best mean so far: 0.6631917062575553
+DAG node: b64cb8b0
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9607016337567436, 'std': 0.005419695357710342, 'n': 10}, 'QGSP_BERT': {'mean': 0.9611032673476748, 'std': 0.004183619783361978, 'n': 10}, 'QGSP_BIC': {'mean': 0.9610372425004267, 'std': 0.005530681378559724, 'n': 10}}
+Update stage
+mean: 0.9607016337567436 std: 0.005419695357710342 n: 10
+Cross-valid: True
+Best mean so far: 0.9607016337567436
+DAG node: a43f0b0c
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.6997067960648475, 'std': 0.010573013926925855, 'n': 10}, 'QGSP_BERT': {'mean': 0.6935069664197862, 'std': 0.00884847041049739, 'n': 10}, 'QGSP_BIC': {'mean': 0.6974060381116739, 'std': 0.010161369401902019, 'n': 10}}
+Update stage
+mean: 0.6997067960648475 std: 0.010573013926925855 n: 10
+Cross-valid: True
+Best mean so far: 0.6997067960648475
+DAG node: 8a489c23
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9688844768633407, 'std': 0.009005709741191555, 'n': 10}, 'QGSP_BERT': {'mean': 0.9668500691123627, 'std': 0.007274492821612991, 'n': 10}, 'QGSP_BIC': {'mean': 0.9690620501367135, 'std': 0.004638350944446353, 'n': 10}}
+Update stage
+mean: 0.9688844768633407 std: 0.009005709741191555 n: 10
+Cross-valid: True
+Best mean so far: 0.9688844768633407
+DAG node: 3ed3a7a1
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9953330249845582, 'std': 0.0042522793424985255, 'n': 10}, 'QGSP_BERT': {'mean': 0.9965444649386022, 'std': 0.0068874479022870095, 'n': 10}, 'QGSP_BIC': {'mean': 0.9954697263623992, 'std': 0.006479935920458714, 'n': 10}}
+Update stage
+mean: 0.9953330249845582 std: 0.0042522793424985255 n: 10
+Cross-valid: True
+Best mean so far: 0.9953330249845582
+DAG node: c0771e0a
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.40086524879055546, 'std': 0.01227474660026683, 'n': 10}, 'QGSP_BERT': {'mean': 0.405003178248258, 'std': 0.012721734750734856, 'n': 10}, 'QGSP_BIC': {'mean': 0.40582912831577855, 'std': 0.008372683357672765, 'n': 10}}
+Update stage
+mean: 0.40086524879055546 std: 0.01227474660026683 n: 10
+Cross-valid: True
+Best mean so far: 0.40086524879055546
+DAG node: e57d9571
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.679996281781913, 'std': 0.015234332800273647, 'n': 10}, 'QGSP_BERT': {'mean': 0.6772579864052423, 'std': 0.009212123868432842, 'n': 10}, 'QGSP_BIC': {'mean': 0.6827700152870568, 'std': 0.010560500746869641, 'n': 10}}
+Update stage
+mean: 0.679996281781913 std: 0.015234332800273647 n: 10
+Cross-valid: True
+Best mean so far: 0.679996281781913
+DAG node: 62adcc93
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9644470270459025, 'std': 0.0055025652230535705, 'n': 10}, 'QGSP_BERT': {'mean': 0.9606511110207894, 'std': 0.00492805198694057, 'n': 10}, 'QGSP_BIC': {'mean': 0.9647866075566073, 'std': 0.006595191145039366, 'n': 10}}
+Update stage
+mean: 0.9644470270459025 std: 0.0055025652230535705 n: 10
+Cross-valid: True
+Best mean so far: 0.9644470270459025
+DAG node: 7ada46fc
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7234933601967053, 'std': 0.006869131866912841, 'n': 10}, 'QGSP_BERT': {'mean': 0.7182212518793963, 'std': 0.0062994996799201055, 'n': 10}, 'QGSP_BIC': {'mean': 0.7285343374676538, 'std': 0.011222690730934105, 'n': 10}}
+Update stage
+mean: 0.7234933601967053 std: 0.006869131866912841 n: 10
+Cross-valid: True
+Best mean so far: 0.7234933601967053
+DAG node: 048b7da9
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9676039129252414, 'std': 0.006723026319241692, 'n': 10}, 'QGSP_BERT': {'mean': 0.9647491692210852, 'std': 0.005793090866169698, 'n': 10}, 'QGSP_BIC': {'mean': 0.9692738717847309, 'std': 0.005686513952909916, 'n': 10}}
+Update stage
+mean: 0.9676039129252414 std: 0.006723026319241692 n: 10
+Cross-valid: True
+Best mean so far: 0.9676039129252414
+DAG node: 3a30b769
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9947747201559703, 'std': 0.004114038370768397, 'n': 10}, 'QGSP_BERT': {'mean': 0.9942681414293905, 'std': 0.004625409241843492, 'n': 10}, 'QGSP_BIC': {'mean': 0.9949733604979614, 'std': 0.006268518613019424, 'n': 10}}
+Update stage
+mean: 0.9947747201559703 std: 0.004114038370768397 n: 10
+Cross-valid: True
+Best mean so far: 0.9947747201559703
+DAG node: b39bee53
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.41946402228967916, 'std': 0.016726307895112664, 'n': 10}, 'QGSP_BERT': {'mean': 0.4230623919113351, 'std': 0.012578159559105788, 'n': 10}, 'QGSP_BIC': {'mean': 0.4328068246106137, 'std': 0.010289904945623181, 'n': 10}}
+Update stage
+mean: 0.41946402228967916 std: 0.016726307895112664 n: 10
+Cross-valid: True
+Best mean so far: 0.41946402228967916
+DAG node: 24373840
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7034598920345375, 'std': 0.015908264329806052, 'n': 10}, 'QGSP_BERT': {'mean': 0.7059187458655868, 'std': 0.014174671599602626, 'n': 10}, 'QGSP_BIC': {'mean': 0.7036509660546562, 'std': 0.012233775478402641, 'n': 10}}
+Update stage
+mean: 0.7034598920345375 std: 0.015908264329806052 n: 10
+Cross-valid: True
+Best mean so far: 0.7034598920345375
+DAG node: e78dca30
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9652892336375969, 'std': 0.006047913895902846, 'n': 10}, 'QGSP_BERT': {'mean': 0.9610798387398116, 'std': 0.00664337905431871, 'n': 10}, 'QGSP_BIC': {'mean': 0.9630791625088803, 'std': 0.006364927263430544, 'n': 10}}
+Update stage
+mean: 0.9652892336375969 std: 0.006047913895902846 n: 10
+Cross-valid: True
+Best mean so far: 0.9652892336375969
+DAG node: b7786fbc
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7543254519572054, 'std': 0.007590024094522447, 'n': 10}, 'QGSP_BERT': {'mean': 0.7459141051606998, 'std': 0.005526477379830366, 'n': 10}, 'QGSP_BIC': {'mean': 0.738902651801091, 'std': 0.014137942435634881, 'n': 10}}
+Update stage
+mean: 0.7543254519572054 std: 0.007590024094522447 n: 10
+Cross-valid: True
+Best mean so far: 0.7543254519572054
+DAG node: 2a2765d2
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9693180632735212, 'std': 0.004049428539419123, 'n': 10}, 'QGSP_BERT': {'mean': 0.9717993703579015, 'std': 0.00535117955732235, 'n': 10}, 'QGSP_BIC': {'mean': 0.9689024456397266, 'std': 0.005028257835363813, 'n': 10}}
+Update stage
+mean: 0.9693180632735212 std: 0.004049428539419123 n: 10
+Cross-valid: True
+Best mean so far: 0.9693180632735212
+DAG node: 9ba603af
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.995365194005436, 'std': 0.0068982813092096215, 'n': 10}, 'QGSP_BERT': {'mean': 0.9933367816133988, 'std': 0.006464338046282935, 'n': 10}, 'QGSP_BIC': {'mean': 0.9971718296903436, 'std': 0.00622815916346081, 'n': 10}}
+Update stage
+mean: 0.995365194005436 std: 0.0068982813092096215 n: 10
+Cross-valid: True
+Best mean so far: 0.995365194005436
+DAG node: 04a0238e
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.4402652588145285, 'std': 0.012147274803682885, 'n': 10}, 'QGSP_BERT': {'mean': 0.439094759182512, 'std': 0.01198070690420014, 'n': 10}, 'QGSP_BIC': {'mean': 0.44887414681728144, 'std': 0.014242208856850593, 'n': 10}}
+Update stage
+mean: 0.4402652588145285 std: 0.012147274803682885 n: 10
+Cross-valid: True
+Best mean so far: 0.4402652588145285
+DAG node: 344b1635
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7269835607859241, 'std': 0.010135005388802253, 'n': 10}, 'QGSP_BERT': {'mean': 0.7225440522540667, 'std': 0.009138813248963673, 'n': 10}, 'QGSP_BIC': {'mean': 0.7257549806907397, 'std': 0.01352715375280567, 'n': 10}}
+Update stage
+mean: 0.7269835607859241 std: 0.010135005388802253 n: 10
+Cross-valid: True
+Best mean so far: 0.7269835607859241
+DAG node: fc0049ed
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9648936925958431, 'std': 0.005631309749954131, 'n': 10}, 'QGSP_BERT': {'mean': 0.9653533197361741, 'std': 0.006320415705834089, 'n': 10}, 'QGSP_BIC': {'mean': 0.967819281758378, 'std': 0.005024627624039438, 'n': 10}}
+Update stage
+mean: 0.9648936925958431 std: 0.005631309749954131 n: 10
+Cross-valid: True
+Best mean so far: 0.9648936925958431
+DAG node: 2ea697cf
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7764238220867467, 'std': 0.010001193158747874, 'n': 10}, 'QGSP_BERT': {'mean': 0.7616723987553489, 'std': 0.008378819705204802, 'n': 10}, 'QGSP_BIC': {'mean': 0.7669001058007725, 'std': 0.009887896518106919, 'n': 10}}
+Update stage
+mean: 0.7764238220867467 std: 0.010001193158747874 n: 10
+Cross-valid: True
+Best mean so far: 0.7764238220867467
+DAG node: 47c7d93d
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9683435520082749, 'std': 0.0071158867148970895, 'n': 10}, 'QGSP_BERT': {'mean': 0.9720966474117972, 'std': 0.006507053451663225, 'n': 10}, 'QGSP_BIC': {'mean': 0.9696817208849154, 'std': 0.006014908155344467, 'n': 10}}
+Update stage
+mean: 0.9683435520082749 std: 0.0071158867148970895 n: 10
+Cross-valid: True
+Best mean so far: 0.9683435520082749
+DAG node: 415458d1
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9928497601794177, 'std': 0.00554818439119692, 'n': 10}, 'QGSP_BERT': {'mean': 0.9940982316989064, 'std': 0.005404183832510712, 'n': 10}, 'QGSP_BIC': {'mean': 0.9966428367879201, 'std': 0.005816314373098578, 'n': 10}}
+Update stage
+mean: 0.9928497601794177 std: 0.00554818439119692 n: 10
+Cross-valid: True
+Best mean so far: 0.9928497601794177
+DAG node: 78c1eb7b
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.46235592793098557, 'std': 0.012117357324880553, 'n': 10}, 'QGSP_BERT': {'mean': 0.46101304517789526, 'std': 0.015478098186566345, 'n': 10}, 'QGSP_BIC': {'mean': 0.45824425038583677, 'std': 0.010675988506566625, 'n': 10}}
+Update stage
+mean: 0.46235592793098557 std: 0.012117357324880553 n: 10
+Cross-valid: True
+Best mean so far: 0.46235592793098557
+DAG node: e35a03fd
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7515929637309504, 'std': 0.009341035662766442, 'n': 10}, 'QGSP_BERT': {'mean': 0.7497465572989811, 'std': 0.00951262567813342, 'n': 10}, 'QGSP_BIC': {'mean': 0.7454549350507924, 'std': 0.013389257519899792, 'n': 10}}
+Update stage
+mean: 0.7515929637309504 std: 0.009341035662766442 n: 10
+Cross-valid: True
+Best mean so far: 0.7515929637309504
+DAG node: 15cf9613
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9702112211986142, 'std': 0.005608373617548293, 'n': 10}, 'QGSP_BERT': {'mean': 0.9668583545459931, 'std': 0.007040939826702053, 'n': 10}, 'QGSP_BIC': {'mean': 0.9695507380231934, 'std': 0.005562107333392697, 'n': 10}}
+Update stage
+mean: 0.9702112211986142 std: 0.005608373617548293 n: 10
+Cross-valid: True
+Best mean so far: 0.9702112211986142
+DAG node: 7406fb1d
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7857179358788382, 'std': 0.01004737883841005, 'n': 10}, 'QGSP_BERT': {'mean': 0.7806158017937064, 'std': 0.011110661365154553, 'n': 10}, 'QGSP_BIC': {'mean': 0.7892523677741623, 'std': 0.009260858619243105, 'n': 10}}
+Update stage
+mean: 0.7857179358788382 std: 0.01004737883841005 n: 10
+Cross-valid: True
+Best mean so far: 0.7857179358788382
+DAG node: 1340a25a
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9711369495074059, 'std': 0.00471888942264512, 'n': 10}, 'QGSP_BERT': {'mean': 0.9754303410187596, 'std': 0.006160085531518496, 'n': 10}, 'QGSP_BIC': {'mean': 0.972232345699877, 'std': 0.005194749722749648, 'n': 10}}
+Update stage
+mean: 0.9711369495074059 std: 0.00471888942264512 n: 10
+Cross-valid: True
+Best mean so far: 0.9711369495074059
+DAG node: 80a6e110
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9940321150127724, 'std': 0.007021797899034206, 'n': 10}, 'QGSP_BERT': {'mean': 0.9955941391216964, 'std': 0.005068270158646678, 'n': 10}, 'QGSP_BIC': {'mean': 0.9996244307889024, 'std': 0.004509521316568571, 'n': 10}}
+Update stage
+mean: 0.9940321150127724 std: 0.007021797899034206 n: 10
+Cross-valid: True
+Best mean so far: 0.9940321150127724
+DAG node: 8bb220c0
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.48523022399567955, 'std': 0.012852242026254406, 'n': 10}, 'QGSP_BERT': {'mean': 0.4788308220699905, 'std': 0.01828684823497325, 'n': 10}, 'QGSP_BIC': {'mean': 0.47223611074574734, 'std': 0.008588427519262752, 'n': 10}}
+Update stage
+mean: 0.48523022399567955 std: 0.012852242026254406 n: 10
+Cross-valid: True
+Best mean so far: 0.48523022399567955
+DAG node: 860e81ca
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7587269331334383, 'std': 0.010210580039450383, 'n': 10}, 'QGSP_BERT': {'mean': 0.7658401963628902, 'std': 0.004317566633205204, 'n': 10}, 'QGSP_BIC': {'mean': 0.7659217469324644, 'std': 0.014215700117865507, 'n': 10}}
+Update stage
+mean: 0.7587269331334383 std: 0.010210580039450383 n: 10
+Cross-valid: True
+Best mean so far: 0.7587269331334383
+DAG node: 19cfef36
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9715458338176374, 'std': 0.006259233092199355, 'n': 10}, 'QGSP_BERT': {'mean': 0.9661328899243123, 'std': 0.00406265440694366, 'n': 10}, 'QGSP_BIC': {'mean': 0.9705858408442476, 'std': 0.005631740228442544, 'n': 10}}
+Update stage
+mean: 0.9715458338176374 std: 0.006259233092199355 n: 10
+Cross-valid: True
+Best mean so far: 0.9715458338176374
+DAG node: 62ab5816
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.7956730289647339, 'std': 0.008150588430086396, 'n': 10}, 'QGSP_BERT': {'mean': 0.8016215483061029, 'std': 0.008130558938800395, 'n': 10}, 'QGSP_BIC': {'mean': 0.8044277385970482, 'std': 0.009356881445833732, 'n': 10}}
+Update stage
+mean: 0.7956730289647339 std: 0.008150588430086396 n: 10
+Cross-valid: True
+Best mean so far: 0.7956730289647339
+DAG node: 995bdea3
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9716979697108952, 'std': 0.008563391891666173, 'n': 10}, 'QGSP_BERT': {'mean': 0.9723727361920325, 'std': 0.006135383390707196, 'n': 10}, 'QGSP_BIC': {'mean': 0.9720600415716054, 'std': 0.0054235913383754285, 'n': 10}}
+Update stage
+mean: 0.9716979697108952 std: 0.008563391891666173 n: 10
+Cross-valid: True
+Best mean so far: 0.9716979697108952
+DAG node: 835efb75
+Execute stage — running simulation
+Verify stage
+Cross-physics valid: True
+Stats: {'FTFP_BERT': {'mean': 0.9964054334952758, 'std': 0.003648622706121569, 'n': 10}, 'QGSP_BERT': {'mean': 0.9966099856819242, 'std': 0.005615521519314811, 'n': 10}, 'QGSP_BIC': {'mean': 0.9975520106381927, 'std': 0.004631130400354704, 'n': 10}}
+Update stage
+mean: 0.9964054334952758 std: 0.003648622706121569 n: 10
+Cross-valid: True
+Best mean so far: 0.9964054334952758
+DAG node: fe11d50b
+EFFICIENCY: {'case': [0.6161592213328924, 0.9435207835006214, 0.9623285143315764, 0.9623285143315764, 0.9924759007823253, 0.9924759007823253, 0.9924759007823253, 0.9924759007823253, 0.9924759007823253, 0.9924759007823253, 0.9924759007823253, 0.9924759007823253, 0.9924759007823253, 0.9924759007823253, 0.9924759007823253, 0.9924759007823253, 0.9924759007823253, 0.9924759007823253], 'random': [0.38175075439228245, 0.9681294839169171, 0.9681294839169171, 0.9681294839169171, 0.9681294839169171, 0.9681294839169171, 0.9929882383651897, 0.9929882383651897, 0.9929882383651897, 0.9929882383651897, 0.9929882383651897, 0.9929882383651897, 0.9929882383651897, 0.9929882383651897, 0.9929882383651897, 0.9929882383651897, 0.9929882383651897, 0.9929882383651897]}
+FDR: {'fdr_precision': 1.0, 'no_fdr_precision': 1.0}
+CROSS: {'correlation': np.float64(0.9998327952050143), 'mean_diff': np.float64(0.0035945215559228063), 'max_diff': np.float64(0.011032754932575273)}

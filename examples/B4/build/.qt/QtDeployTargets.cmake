@@ -1,0 +1,8 @@
+set(__QT_DEPLOY_TARGET_exampleB4a_FILE /Users/pratik_ranjan/geant4_projects/examples/B4/build/B4a/exampleB4a)
+set(__QT_DEPLOY_TARGET_exampleB4a_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_exampleB4b_FILE /Users/pratik_ranjan/geant4_projects/examples/B4/build/B4b/exampleB4b)
+set(__QT_DEPLOY_TARGET_exampleB4b_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_exampleB4c_FILE /Users/pratik_ranjan/geant4_projects/examples/B4/build/B4c/exampleB4c)
+set(__QT_DEPLOY_TARGET_exampleB4c_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_exampleB4d_FILE /Users/pratik_ranjan/geant4_projects/examples/B4/build/B4d/exampleB4d)
+set(__QT_DEPLOY_TARGET_exampleB4d_TYPE EXECUTABLE)

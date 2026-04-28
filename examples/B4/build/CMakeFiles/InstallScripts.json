@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/pratik_ranjan/geant4_projects/examples/B4/build/cmake_install.cmake",
+		"/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4a/cmake_install.cmake",
+		"/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4b/cmake_install.cmake",
+		"/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4c/cmake_install.cmake",
+		"/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4d/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

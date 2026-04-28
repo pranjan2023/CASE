@@ -1,0 +1,15 @@
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/CMakeFiles/B4.dir
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/CMakeFiles/edit_cache.dir
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/CMakeFiles/rebuild_cache.dir
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4a/CMakeFiles/exampleB4a.dir
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4a/CMakeFiles/edit_cache.dir
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4a/CMakeFiles/rebuild_cache.dir
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4b/CMakeFiles/exampleB4b.dir
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4b/CMakeFiles/edit_cache.dir
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4b/CMakeFiles/rebuild_cache.dir
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4c/CMakeFiles/exampleB4c.dir
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4c/CMakeFiles/edit_cache.dir
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4c/CMakeFiles/rebuild_cache.dir
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4d/CMakeFiles/exampleB4d.dir
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4d/CMakeFiles/edit_cache.dir
+/Users/pratik_ranjan/geant4_projects/examples/B4/build/B4d/CMakeFiles/rebuild_cache.dir
