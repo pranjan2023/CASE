@@ -1,0 +1,9 @@
+g4env/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+benchmark_outputs/
+memory/experiment_history.json
+.DS_Store
+*.root
