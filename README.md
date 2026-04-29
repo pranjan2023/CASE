@@ -1,14 +1,15 @@
 <div align="center">
 
-```
+<pre>
  ██████╗ █████╗ ███████╗███████╗
 ██╔════╝██╔══██╗██╔════╝██╔════╝
 ██║     ███████║███████╗█████╗  
 ██║     ██╔══██║╚════██║██╔══╝  
 ╚██████╗██║  ██║███████║███████╗
  ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝
-```
+</pre>
 
+</div>
 # Constrained Axiomatic Search Engine
 
 **Simulation-native agentic optimization for experimental physics.**  
