@@ -11,3 +11,15 @@ memory/experiment_history.json
 
 .DS_Store
 *.rootO
+
+
+
+test_runs/
+plots/
+*.pyc
+__pycache__/
+*.log
+*.root
+*.json
+!requirements.txt
+!README.md

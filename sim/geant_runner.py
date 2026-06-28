@@ -1,5 +1,5 @@
 import geant4_pybind as g4
-import random
+# NO artificial noise import: removed random.uniform
 
 def run_simulation(config):
     # --- Extract Configuration ---
@@ -101,11 +101,14 @@ def run_simulation(config):
     # --- Execution Loop ---
     for i in range(runs):
         total_energy = 0.0  # Reset for each run
+        # Set seed per run
         if hasattr(g4, "G4Random"):
             g4.G4Random.setTheSeed(base_seed + i)
         rm.BeamOn(events)
-        noise = random.uniform(-0.01, 0.01)        
-        scores.append(total_energy / events + noise)
+        # ⚠️ NO ARTIFICIAL NOISE: scores are raw Monte Carlo results.
+        # Statistical variance is handled later via jackknife resampling.
+        scores.append(total_energy / events)
+
     return {
         "events": events,
         "scores": scores
